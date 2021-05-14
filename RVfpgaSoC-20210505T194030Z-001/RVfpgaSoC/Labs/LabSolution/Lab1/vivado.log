@@ -1,0 +1,224 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Thu Mar  4 23:19:23 2021
+# Process ID: 12944
+# Current directory: E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2360 E:\Azky\Rvfpga2.0\RvfpgaSoC\Labs\LabSolution\Lab1\Lab1.xpr
+# Log file: E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/vivado.log
+# Journal file: E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.xpr
+WARNING: [Board 49-91] Board repository path 'C:/Users/Hamza' does not exist, it will not be used to search board files.
+WARNING: [Board 49-91] Board repository path 'Ali/AppData/Roaming/Xilinx/Vivado/2019.2/xhub/board_store' does not exist, it will not be used to search board files.
+WARNING: [Board 49-91] Board repository path 'C:/Users/Hamza' does not exist, it will not be used to search board files.
+WARNING: [Board 49-91] Board repository path 'Ali/AppData/Roaming/Xilinx/Vivado/{C:/Users/Hamza' does not exist, it will not be used to search board files.
+WARNING: [Board 49-91] Board repository path 'C:/Users/Hamza' does not exist, it will not be used to search board files.
+WARNING: [Board 49-91] Board repository path 'Ali/AppData/Roaming/Xilinx/Vivado/Ali/AppData/Roaming/Xilinx/Vivado/2019.2/xhub/board_store}' does not exist, it will not be used to search board files.
+INFO: [Project 1-313] Project file moved from 'E:/RvfpgaSoC/Labs/LabProjects/Lab 2/Lab1' since last save.
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-3] Board Part Repository Path: Could not find the directory 'C:/Users/Hamza'.
+WARNING: [filemgmt 56-3] Board Part Repository Path: Could not find the directory 'C:/Users/Hamza Ali/AppData/Roaming/Xilinx/Vivado/Ali/AppData/Roaming/Xilinx/Vivado/2019.2/xhub/board_store'.
+WARNING: [filemgmt 56-3] Board Part Repository Path: Could not find the directory 'C:/Users/Hamza'.
+WARNING: [filemgmt 56-3] Board Part Repository Path: Could not find the directory 'C:/Users/Hamza Ali/AppData/Roaming/Xilinx/Vivado/Ali/AppData/Roaming/Xilinx/Vivado/{C:/Users/Hamza'.
+WARNING: [filemgmt 56-3] Board Part Repository Path: Could not find the directory 'C:/Users/Hamza'.
+WARNING: [filemgmt 56-3] Board Part Repository Path: Could not find the directory 'C:/Users/Hamza Ali/AppData/Roaming/Xilinx/Vivado/Ali/AppData/Roaming/Xilinx/Vivado/Ali/AppData/Roaming/Xilinx/Vivado/2019.2/xhub/board_store}'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/Xilinx/Vivado/2019.2/data/ip'.
+open_project: Time (s): cpu = 00:00:23 ; elapsed = 00:00:22 . Memory (MB): peak = 885.410 ; gain = 271.398
+update_module_reference BD_swerv_wrapper_verilog_0_0
+CRITICAL WARNING: [HDL 9-806] Syntax error near "begin". [e:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.srcs/sources_1/imports/src/SweRVolfSoC/OtherSources/swervolf-swerv_default_config_0.7/configs/snapshots/default/pic_map_auto.h:2]
+INFO: [IP_Flow 19-5151] The Range '31:0' is present in all ports of the interface 'dmi_reg'. It is assumed that this is meant to declare an array of interface. If this is not the desired behaviour, switch of this feature by disabling the parameter 'ips.enableInterfaceArrayInference'.
+INFO: [IP_Flow 19-5107] Inferred bus interface 'ifu_axi' of definition 'xilinx.com:interface:aximm:1.0' (from Xilinx Repository).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'lsu_axi' of definition 'xilinx.com:interface:aximm:1.0' (from Xilinx Repository).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'sb_axi' of definition 'xilinx.com:interface:aximm:1.0' (from Xilinx Repository).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'dmi_hard_reset' of definition 'xilinx.com:signal:reset:1.0' (from Xilinx Repository).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'rst' of definition 'xilinx.com:signal:reset:1.0' (from Xilinx Repository).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'clk' of definition 'xilinx.com:signal:clock:1.0' (from Xilinx Repository).
+INFO: [IP_Flow 19-4728] Bus Interface 'clk': Added interface parameter 'ASSOCIATED_BUSIF' with value 'ifu_axi'.
+INFO: [IP_Flow 19-4728] Bus Interface 'clk': Added interface parameter 'ASSOCIATED_RESET' with value 'rst'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+Adding component instance block -- xilinx.com:module_ref:swerv_wrapper_verilog:1.0 - swerv_wrapper_verilog_0
+Adding component instance block -- xilinx.com:module_ref:bootrom_wrapper:1.0 - bootrom_wrapper_0
+Adding component instance block -- xilinx.com:module_ref:syscon_wrapper:1.0 - syscon_wrapper_0
+Adding component instance block -- xilinx.com:module_ref:gpio_wrapper:1.0 - gpio_wrapper_0
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_0
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_1
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_2
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_3
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_4
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_5
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_6
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_7
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_8
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_9
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_10
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_11
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_12
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_13
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_14
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_15
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_16
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_17
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_18
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_19
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_20
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_21
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_22
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_23
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_24
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_25
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_26
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_27
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_28
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_29
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_30
+Adding component instance block -- xilinx.com:module_ref:bidirec:1.0 - bidirec_31
+Adding component instance block -- xilinx.com:module_ref:intcon_wrapper_bd:1.0 - intcon_wrapper_bd_0
+WARNING: [BD 41-1731] Type mismatch between connected pins: /gpio_wrapper_0/wb_inta_o(undef) and /syscon_wrapper_0/gpio_irq(intr)
+WARNING: [BD 41-1731] Type mismatch between connected pins: /syscon_wrapper_0/o_timer_irq(intr) and /swerv_wrapper_verilog_0/timer_int(undef)
+WARNING: [BD 41-1731] Type mismatch between connected pins: /clk_0(clk) and /gpio_wrapper_0/wb_clk_i(undef)
+WARNING: [BD 41-1731] Type mismatch between connected pins: /clk_0(clk) and /intcon_wrapper_bd_0/clk_i_wrapper(undef)
+WARNING: [BD 41-1731] Type mismatch between connected pins: /rst_0(rst) and /gpio_wrapper_0/wb_rst_i(undef)
+WARNING: [BD 41-1731] Type mismatch between connected pins: /rst_0(rst) and /intcon_wrapper_bd_0/rst_ni_wrapper(undef)
+Successfully read diagram <BD> from BD file <E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.srcs/sources_1/bd/BD/BD.bd>
+Upgrading 'E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.srcs/sources_1/bd/BD/BD.bd'
+INFO: [IP_Flow 19-1972] Upgraded BD_swerv_wrapper_verilog_0_0 from swerv_wrapper_verilog_v1_0 1.0 to swerv_wrapper_verilog_v1_0 1.0
+WARNING: [BD 41-1731] Type mismatch between connected pins: /syscon_wrapper_0/o_timer_irq(intr) and /swerv_wrapper_verilog_0_upgraded_ipi/timer_int(undef)
+Wrote  : <E:\Azky\Rvfpga2.0\RvfpgaSoC\Labs\LabSolution\Lab1\Lab1.srcs\sources_1\bd\BD\BD.bd> 
+Wrote  : <E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.srcs/sources_1/bd/BD/ui/bd_206cfb42.ui> 
+upgrade_ip: Time (s): cpu = 00:00:14 ; elapsed = 00:00:15 . Memory (MB): peak = 1480.238 ; gain = 0.000
+update_module_reference: Time (s): cpu = 00:00:18 ; elapsed = 00:00:59 . Memory (MB): peak = 1480.238 ; gain = 0.000
+update_module_reference BD_intcon_wrapper_bd_0_0
+WARNING: [IP_Flow 19-4747] Not inferring AXIMM interface 'i_ifu' due to missing slave read-channel signals ARREADY RDATA RVALID.
+WARNING: [IP_Flow 19-4747] Not inferring AXIMM interface 'i_lsu' due to missing slave read-channel signals ARREADY RDATA RVALID.
+WARNING: [IP_Flow 19-4747] Not inferring AXIMM interface 'i_ram' due to missing master read-channel signals ARADDR ARVALID RREADY.
+WARNING: [IP_Flow 19-4747] Not inferring AXIMM interface 'i_sb' due to missing slave read-channel signals ARREADY RDATA RVALID.
+WARNING: [IP_Flow 19-4747] Not inferring AXIMM interface 'o_lsu' due to missing slave read-channel signals ARADDR ARVALID RREADY.
+WARNING: [IP_Flow 19-4747] Not inferring AXIMM interface 'o_ram' due to missing master read-channel signals ARREADY RDATA RVALID.
+WARNING: [IP_Flow 19-4747] Not inferring AXIMM interface 'o_sb' due to missing slave read-channel signals ARADDR ARVALID RREADY.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+Upgrading 'E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.srcs/sources_1/bd/BD/BD.bd'
+INFO: [IP_Flow 19-1972] Upgraded BD_intcon_wrapper_bd_0_0 from intcon_wrapper_bd_v1_0 1.0 to intcon_wrapper_bd_v1_0 1.0
+WARNING: [BD 41-1731] Type mismatch between connected pins: /clk_0(clk) and /intcon_wrapper_bd_0_upgraded_ipi/clk_i_wrapper(undef)
+WARNING: [BD 41-1731] Type mismatch between connected pins: /rst_0(rst) and /intcon_wrapper_bd_0_upgraded_ipi/rst_ni_wrapper(undef)
+Wrote  : <E:\Azky\Rvfpga2.0\RvfpgaSoC\Labs\LabSolution\Lab1\Lab1.srcs\sources_1\bd\BD\BD.bd> 
+Wrote  : <E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.srcs/sources_1/bd/BD/ui/bd_206cfb42.ui> 
+update_module_reference: Time (s): cpu = 00:00:03 ; elapsed = 00:00:25 . Memory (MB): peak = 1480.238 ; gain = 0.000
+update_module_reference BD_bootrom_wrapper_0_0
+INFO: [IP_Flow 19-5107] Inferred bus interface 'i_rst' of definition 'xilinx.com:signal:reset:1.0' (from Xilinx Repository).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'i_clk' of definition 'xilinx.com:signal:clock:1.0' (from Xilinx Repository).
+INFO: [IP_Flow 19-4728] Bus Interface 'i_clk': Added interface parameter 'ASSOCIATED_RESET' with value 'i_rst'.
+WARNING: [IP_Flow 19-3153] Bus Interface 'i_clk': ASSOCIATED_BUSIF bus parameter is missing.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+Upgrading 'E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.srcs/sources_1/bd/BD/BD.bd'
+INFO: [IP_Flow 19-1972] Upgraded BD_bootrom_wrapper_0_0 from bootrom_wrapper_v1_0 1.0 to bootrom_wrapper_v1_0 1.0
+Wrote  : <E:\Azky\Rvfpga2.0\RvfpgaSoC\Labs\LabSolution\Lab1\Lab1.srcs\sources_1\bd\BD\BD.bd> 
+Wrote  : <E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.srcs/sources_1/bd/BD/ui/bd_206cfb42.ui> 
+update_module_reference: Time (s): cpu = 00:00:06 ; elapsed = 00:00:25 . Memory (MB): peak = 1480.238 ; gain = 0.000
+update_module_reference BD_syscon_wrapper_0_0
+INFO: [IP_Flow 19-5107] Inferred bus interface 'i_rst' of definition 'xilinx.com:signal:reset:1.0' (from Xilinx Repository).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'i_clk' of definition 'xilinx.com:signal:clock:1.0' (from Xilinx Repository).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'gpio_irq' of definition 'xilinx.com:signal:interrupt:1.0' (from Xilinx Repository).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'o_timer_irq' of definition 'xilinx.com:signal:interrupt:1.0' (from Xilinx Repository).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'ptc_irq' of definition 'xilinx.com:signal:interrupt:1.0' (from Xilinx Repository).
+INFO: [IP_Flow 19-4728] Bus Interface 'gpio_irq': Added interface parameter 'SENSITIVITY' with value 'LEVEL_HIGH'.
+INFO: [IP_Flow 19-4728] Bus Interface 'o_timer_irq': Added interface parameter 'SENSITIVITY' with value 'LEVEL_HIGH'.
+INFO: [IP_Flow 19-4728] Bus Interface 'ptc_irq': Added interface parameter 'SENSITIVITY' with value 'LEVEL_HIGH'.
+INFO: [IP_Flow 19-4728] Bus Interface 'i_clk': Added interface parameter 'ASSOCIATED_RESET' with value 'i_rst'.
+WARNING: [IP_Flow 19-3153] Bus Interface 'i_clk': ASSOCIATED_BUSIF bus parameter is missing.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+Upgrading 'E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.srcs/sources_1/bd/BD/BD.bd'
+INFO: [IP_Flow 19-1972] Upgraded BD_syscon_wrapper_0_0 from syscon_wrapper_v1_0 1.0 to syscon_wrapper_v1_0 1.0
+WARNING: [BD 41-1731] Type mismatch between connected pins: /gpio_wrapper_0/wb_inta_o(undef) and /syscon_wrapper_0_upgraded_ipi/gpio_irq(intr)
+WARNING: [BD 41-1731] Type mismatch between connected pins: /swerv_wrapper_verilog_0/timer_int(undef) and /syscon_wrapper_0_upgraded_ipi/o_timer_irq(intr)
+Wrote  : <E:\Azky\Rvfpga2.0\RvfpgaSoC\Labs\LabSolution\Lab1\Lab1.srcs\sources_1\bd\BD\BD.bd> 
+Wrote  : <E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.srcs/sources_1/bd/BD/ui/bd_206cfb42.ui> 
+update_module_reference: Time (s): cpu = 00:00:03 ; elapsed = 00:00:25 . Memory (MB): peak = 1480.238 ; gain = 0.000
+update_module_reference BD_gpio_wrapper_0_0
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+Upgrading 'E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.srcs/sources_1/bd/BD/BD.bd'
+INFO: [IP_Flow 19-1972] Upgraded BD_gpio_wrapper_0_0 from gpio_wrapper_v1_0 1.0 to gpio_wrapper_v1_0 1.0
+WARNING: [BD 41-1731] Type mismatch between connected pins: /clk_0(clk) and /gpio_wrapper_0_upgraded_ipi/wb_clk_i(undef)
+WARNING: [BD 41-1731] Type mismatch between connected pins: /rst_0(rst) and /gpio_wrapper_0_upgraded_ipi/wb_rst_i(undef)
+WARNING: [BD 41-1731] Type mismatch between connected pins: /syscon_wrapper_0/gpio_irq(intr) and /gpio_wrapper_0_upgraded_ipi/wb_inta_o(undef)
+Wrote  : <E:\Azky\Rvfpga2.0\RvfpgaSoC\Labs\LabSolution\Lab1\Lab1.srcs\sources_1\bd\BD\BD.bd> 
+Wrote  : <E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.srcs/sources_1/bd/BD/ui/bd_206cfb42.ui> 
+update_module_reference: Time (s): cpu = 00:00:03 ; elapsed = 00:00:25 . Memory (MB): peak = 1480.238 ; gain = 0.000
+update_module_reference {BD_bidirec_0_0 BD_bidirec_0_1 BD_bidirec_0_2 BD_bidirec_1_0 BD_bidirec_0_3 BD_bidirec_1_1 BD_bidirec_2_0 BD_bidirec_3_0 BD_bidirec_0_4 BD_bidirec_1_2 BD_bidirec_2_1 BD_bidirec_3_1 BD_bidirec_4_0 BD_bidirec_5_0 BD_bidirec_6_0 BD_bidirec_7_0 BD_bidirec_0_5 BD_bidirec_1_3 BD_bidirec_10_0 BD_bidirec_11_0 BD_bidirec_12_0 BD_bidirec_13_0 BD_bidirec_14_0 BD_bidirec_15_0 BD_bidirec_2_2 BD_bidirec_3_2 BD_bidirec_4_1 BD_bidirec_5_1 BD_bidirec_6_1 BD_bidirec_7_1 BD_bidirec_8_0 BD_bidirec_9_0}
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+Upgrading 'E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.srcs/sources_1/bd/BD/BD.bd'
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_0_0 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_0_1 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_0_2 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_0_3 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_0_4 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_0_5 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_10_0 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_11_0 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_12_0 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_13_0 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_14_0 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_15_0 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_1_0 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_1_1 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_1_2 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_1_3 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_2_0 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_2_1 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_2_2 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_3_0 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_3_1 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_3_2 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_4_0 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_4_1 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_5_0 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_5_1 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_6_0 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_6_1 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_7_0 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_7_1 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_8_0 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+INFO: [IP_Flow 19-1972] Upgraded BD_bidirec_9_0 from bidirec_v1_0 1.0 to bidirec_v1_0 1.0
+Wrote  : <E:\Azky\Rvfpga2.0\RvfpgaSoC\Labs\LabSolution\Lab1\Lab1.srcs\sources_1\bd\BD\BD.bd> 
+Wrote  : <E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.srcs/sources_1/bd/BD/ui/bd_206cfb42.ui> 
+upgrade_ip: Time (s): cpu = 00:00:19 ; elapsed = 00:00:25 . Memory (MB): peak = 1480.238 ; gain = 0.000
+update_module_reference: Time (s): cpu = 00:00:22 ; elapsed = 00:00:49 . Memory (MB): peak = 1480.238 ; gain = 0.000
+update_compile_order -fileset sources_1
+make_wrapper -files [get_files E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.srcs/sources_1/bd/BD/BD.bd] -top
+CRITICAL WARNING: [BD 41-759] The input pins (listed below) are either not connected or do not have a source port, and they don't have a tie-off specified. These pins are tied-off to all 0's to avoid error in Implementation flow.
+Please check your design and connect them as needed: 
+/intcon_wrapper_bd_0/wb_spi_flash_dat_i
+/intcon_wrapper_bd_0/wb_spi_flash_ack_i
+/intcon_wrapper_bd_0/wb_spi_flash_err_i
+/intcon_wrapper_bd_0/wb_spi_flash_rty_i
+/intcon_wrapper_bd_0/wb_sys_err_i
+/intcon_wrapper_bd_0/wb_sys_rty_i
+/intcon_wrapper_bd_0/wb_uart_dat_i
+/intcon_wrapper_bd_0/wb_uart_ack_i
+/intcon_wrapper_bd_0/wb_uart_err_i
+/intcon_wrapper_bd_0/wb_uart_rty_i
+/intcon_wrapper_bd_0/wb_ptc_dat_i
+/intcon_wrapper_bd_0/wb_ptc_ack_i
+/intcon_wrapper_bd_0/wb_ptc_err_i
+/intcon_wrapper_bd_0/wb_ptc_rty_i
+/intcon_wrapper_bd_0/wb_spi_accel_dat_i
+/intcon_wrapper_bd_0/wb_spi_accel_ack_i
+/intcon_wrapper_bd_0/wb_spi_accel_err_i
+/intcon_wrapper_bd_0/wb_spi_accel_rty_i
+/syscon_wrapper_0/ptc_irq
+
+Wrote  : <E:\Azky\Rvfpga2.0\RvfpgaSoC\Labs\LabSolution\Lab1\Lab1.srcs\sources_1\bd\BD\BD.bd> 
+VHDL Output written to : E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.srcs/sources_1/bd/BD/synth/BD.v
+VHDL Output written to : E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.srcs/sources_1/bd/BD/sim/BD.v
+VHDL Output written to : E:/Azky/Rvfpga2.0/RvfpgaSoC/Labs/LabSolution/Lab1/Lab1.srcs/sources_1/bd/BD/hdl/BD_wrapper.v

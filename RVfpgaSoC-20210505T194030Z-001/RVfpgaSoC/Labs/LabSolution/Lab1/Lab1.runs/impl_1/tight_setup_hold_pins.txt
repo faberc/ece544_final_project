@@ -1,0 +1,25 @@
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+|       Launch Clock       |      Capture Clock       |                                                 Pin                                                      |
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/swerv/lsu/stbuf/GenStBuf[0].stbuf_flush_vldff/dffsc/dout_reg[0]/D|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/swerv/lsu/stbuf/GenStBuf[4].stbuf_flush_vldff/dffsc/dout_reg[0]/D|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/swerv/lsu/stbuf/GenStBuf[2].stbuf_flush_vldff/dffsc/dout_reg[0]/D|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/swerv/lsu/stbuf/GenStBuf[6].stbuf_flush_vldff/dffsc/dout_reg[0]/D|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/swerv/lsu/stbuf/GenStBuf[2].stbuf_drain_vldff/dffsc/dout_reg[0]/D|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/swerv/lsu/stbuf/GenStBuf[6].stbuf_drain_vldff/dffsc/dout_reg[0]/D|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/swerv/lsu/stbuf/GenStBuf[7].stbuf_drain_vldff/dffsc/dout_reg[0]/D|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/swerv/lsu/stbuf/GenStBuf[1].stbuf_drain_vldff/dffsc/dout_reg[0]/D|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/swerv/lsu/stbuf/GenStBuf[4].stbuf_drain_vldff/dffsc/dout_reg[0]/D|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/swerv/lsu/stbuf/GenStBuf[0].stbuf_drain_vldff/dffsc/dout_reg[0]/D|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/swerv/lsu/stbuf/GenStBuf[5].stbuf_flush_vldff/dffsc/dout_reg[0]/D|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/swerv/lsu/stbuf/GenStBuf[1].stbuf_flush_vldff/dffsc/dout_reg[0]/D|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/swerv/lsu/stbuf/GenStBuf[3].stbuf_flush_vldff/dffsc/dout_reg[0]/D|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/swerv/lsu/stbuf/GenStBuf[7].stbuf_flush_vldff/dffsc/dout_reg[0]/D|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/swerv/lsu/stbuf/GenStBuf[5].stbuf_drain_vldff/dffsc/dout_reg[0]/D|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/swerv/lsu/stbuf/GenStBuf[3].stbuf_drain_vldff/dffsc/dout_reg[0]/D|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/mem/Gen_dccm_enable.dccm/mem_bank[2].dccm_bank/ram_core_reg_1/ADDRARDADDR[9]|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/mem/Gen_dccm_enable.dccm/mem_bank[2].dccm_bank/ram_core_reg_2/ADDRARDADDR[8]|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/mem/Gen_dccm_enable.dccm/mem_bank[2].dccm_bank/ram_core_reg_1/ADDRARDADDR[5]|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/mem/Gen_dccm_enable.dccm/mem_bank[2].dccm_bank/ram_core_reg_0/ADDRARDADDR[9]|
+|                 clk_core |                 clk_core |swervolf/BD_i/swerv_wrapper_verilog_0/inst/swerv_eh1_2/mem/Gen_dccm_enable.dccm/mem_bank[2].dccm_bank/ram_core_reg_1/ADDRARDADDR[13]|
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
