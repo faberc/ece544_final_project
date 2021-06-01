@@ -763,60 +763,6 @@
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
-        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_6_0/BD_bidirec_6_0.xci">
-          <Proxy FileSetName="BD_bidirec_6_0"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_7_0/BD_bidirec_7_0.xci">
-          <Proxy FileSetName="BD_bidirec_7_0"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_0_5/BD_bidirec_0_5.xci">
-          <Proxy FileSetName="BD_bidirec_0_5"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_1_3/BD_bidirec_1_3.xci">
-          <Proxy FileSetName="BD_bidirec_1_3"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_10_0/BD_bidirec_10_0.xci">
-          <Proxy FileSetName="BD_bidirec_10_0"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_11_0/BD_bidirec_11_0.xci">
-          <Proxy FileSetName="BD_bidirec_11_0"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_12_0/BD_bidirec_12_0.xci">
-          <Proxy FileSetName="BD_bidirec_12_0"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_13_0/BD_bidirec_13_0.xci">
-          <Proxy FileSetName="BD_bidirec_13_0"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_14_0/BD_bidirec_14_0.xci">
-          <Proxy FileSetName="BD_bidirec_14_0"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_15_0/BD_bidirec_15_0.xci">
-          <Proxy FileSetName="BD_bidirec_15_0"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_2_2/BD_bidirec_2_2.xci">
-          <Proxy FileSetName="BD_bidirec_2_2"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_3_2/BD_bidirec_3_2.xci">
-          <Proxy FileSetName="BD_bidirec_3_2"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_4_1/BD_bidirec_4_1.xci">
-          <Proxy FileSetName="BD_bidirec_4_1"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_5_1/BD_bidirec_5_1.xci">
-          <Proxy FileSetName="BD_bidirec_5_1"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_6_1/BD_bidirec_6_1.xci">
-          <Proxy FileSetName="BD_bidirec_6_1"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_7_1/BD_bidirec_7_1.xci">
-          <Proxy FileSetName="BD_bidirec_7_1"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_8_0/BD_bidirec_8_0.xci">
-          <Proxy FileSetName="BD_bidirec_8_0"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_9_0/BD_bidirec_9_0.xci">
-          <Proxy FileSetName="BD_bidirec_9_0"/>
-        </CompFileExtendedInfo>
         <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_swerv_wrapper_verilog_0_0/BD_swerv_wrapper_verilog_0_0.xci">
           <Proxy FileSetName="BD_swerv_wrapper_verilog_0_0"/>
         </CompFileExtendedInfo>
@@ -873,6 +819,60 @@
         </CompFileExtendedInfo>
         <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_5_0/BD_bidirec_5_0.xci">
           <Proxy FileSetName="BD_bidirec_5_0"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_6_0/BD_bidirec_6_0.xci">
+          <Proxy FileSetName="BD_bidirec_6_0"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_7_0/BD_bidirec_7_0.xci">
+          <Proxy FileSetName="BD_bidirec_7_0"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_0_5/BD_bidirec_0_5.xci">
+          <Proxy FileSetName="BD_bidirec_0_5"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_1_3/BD_bidirec_1_3.xci">
+          <Proxy FileSetName="BD_bidirec_1_3"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_10_0/BD_bidirec_10_0.xci">
+          <Proxy FileSetName="BD_bidirec_10_0"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_11_0/BD_bidirec_11_0.xci">
+          <Proxy FileSetName="BD_bidirec_11_0"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_12_0/BD_bidirec_12_0.xci">
+          <Proxy FileSetName="BD_bidirec_12_0"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_13_0/BD_bidirec_13_0.xci">
+          <Proxy FileSetName="BD_bidirec_13_0"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_14_0/BD_bidirec_14_0.xci">
+          <Proxy FileSetName="BD_bidirec_14_0"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_15_0/BD_bidirec_15_0.xci">
+          <Proxy FileSetName="BD_bidirec_15_0"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_2_2/BD_bidirec_2_2.xci">
+          <Proxy FileSetName="BD_bidirec_2_2"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_3_2/BD_bidirec_3_2.xci">
+          <Proxy FileSetName="BD_bidirec_3_2"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_4_1/BD_bidirec_4_1.xci">
+          <Proxy FileSetName="BD_bidirec_4_1"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_5_1/BD_bidirec_5_1.xci">
+          <Proxy FileSetName="BD_bidirec_5_1"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_6_1/BD_bidirec_6_1.xci">
+          <Proxy FileSetName="BD_bidirec_6_1"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_7_1/BD_bidirec_7_1.xci">
+          <Proxy FileSetName="BD_bidirec_7_1"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_8_0/BD_bidirec_8_0.xci">
+          <Proxy FileSetName="BD_bidirec_8_0"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="BD.bd" FileRelPathName="ip/BD_bidirec_9_0/BD_bidirec_9_0.xci">
+          <Proxy FileSetName="BD_bidirec_9_0"/>
         </CompFileExtendedInfo>
       </File>
       <File Path="$PSRCDIR/sources_1/bd/BD/hdl/BD_wrapper.v">
@@ -2288,6 +2288,150 @@
         <Option Name="TopAutoSet" Val="TRUE"/>
       </Config>
     </FileSet>
+    <FileSet Name="BD_gpio_wrapper_0_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_gpio_wrapper_0_0">
+      <Config>
+        <Option Name="TopModule" Val="BD_gpio_wrapper_0_0"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
+        <Option Name="UseBlackboxStub" Val="1"/>
+      </Config>
+    </FileSet>
+    <FileSet Name="BD_syscon_wrapper_0_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_syscon_wrapper_0_0">
+      <Config>
+        <Option Name="TopModule" Val="BD_syscon_wrapper_0_0"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
+        <Option Name="UseBlackboxStub" Val="1"/>
+      </Config>
+    </FileSet>
+    <FileSet Name="BD_bidirec_0_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_0_0">
+      <Config>
+        <Option Name="TopModule" Val="BD_bidirec_0_0"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
+        <Option Name="UseBlackboxStub" Val="1"/>
+      </Config>
+    </FileSet>
+    <FileSet Name="BD_bidirec_0_1" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_0_1">
+      <Config>
+        <Option Name="TopModule" Val="BD_bidirec_0_1"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
+        <Option Name="UseBlackboxStub" Val="1"/>
+      </Config>
+    </FileSet>
+    <FileSet Name="BD_bidirec_0_2" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_0_2">
+      <Config>
+        <Option Name="TopModule" Val="BD_bidirec_0_2"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
+        <Option Name="UseBlackboxStub" Val="1"/>
+      </Config>
+    </FileSet>
+    <FileSet Name="BD_bidirec_1_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_1_0">
+      <Config>
+        <Option Name="TopModule" Val="BD_bidirec_1_0"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
+        <Option Name="UseBlackboxStub" Val="1"/>
+      </Config>
+    </FileSet>
+    <FileSet Name="BD_bidirec_0_3" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_0_3">
+      <Config>
+        <Option Name="TopModule" Val="BD_bidirec_0_3"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
+        <Option Name="UseBlackboxStub" Val="1"/>
+      </Config>
+    </FileSet>
+    <FileSet Name="BD_bidirec_1_1" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_1_1">
+      <Config>
+        <Option Name="TopModule" Val="BD_bidirec_1_1"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
+        <Option Name="UseBlackboxStub" Val="1"/>
+      </Config>
+    </FileSet>
+    <FileSet Name="BD_bidirec_2_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_2_0">
+      <Config>
+        <Option Name="TopModule" Val="BD_bidirec_2_0"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
+        <Option Name="UseBlackboxStub" Val="1"/>
+      </Config>
+    </FileSet>
+    <FileSet Name="BD_bidirec_3_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_3_0">
+      <Config>
+        <Option Name="TopModule" Val="BD_bidirec_3_0"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
+        <Option Name="UseBlackboxStub" Val="1"/>
+      </Config>
+    </FileSet>
+    <FileSet Name="BD_bidirec_0_4" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_0_4">
+      <Config>
+        <Option Name="TopModule" Val="BD_bidirec_0_4"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
+        <Option Name="UseBlackboxStub" Val="1"/>
+      </Config>
+    </FileSet>
+    <FileSet Name="BD_bidirec_1_2" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_1_2">
+      <Config>
+        <Option Name="TopModule" Val="BD_bidirec_1_2"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
+        <Option Name="UseBlackboxStub" Val="1"/>
+      </Config>
+    </FileSet>
+    <FileSet Name="BD_bidirec_2_1" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_2_1">
+      <Config>
+        <Option Name="TopModule" Val="BD_bidirec_2_1"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
+        <Option Name="UseBlackboxStub" Val="1"/>
+      </Config>
+    </FileSet>
+    <FileSet Name="BD_bidirec_3_1" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_3_1">
+      <Config>
+        <Option Name="TopModule" Val="BD_bidirec_3_1"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
+        <Option Name="UseBlackboxStub" Val="1"/>
+      </Config>
+    </FileSet>
+    <FileSet Name="BD_bidirec_4_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_4_0">
+      <Config>
+        <Option Name="TopModule" Val="BD_bidirec_4_0"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
+        <Option Name="UseBlackboxStub" Val="1"/>
+      </Config>
+    </FileSet>
+    <FileSet Name="BD_bidirec_5_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_5_0">
+      <Config>
+        <Option Name="TopModule" Val="BD_bidirec_5_0"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
+        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
+        <Option Name="UseBlackboxStub" Val="1"/>
+      </Config>
+    </FileSet>
     <FileSet Name="BD_bidirec_6_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_6_0">
       <Config>
         <Option Name="TopModule" Val="BD_bidirec_6_0"/>
@@ -2459,15 +2603,6 @@
         <Option Name="UseBlackboxStub" Val="1"/>
       </Config>
     </FileSet>
-    <FileSet Name="BD_intcon_wrapper_bd_0_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_intcon_wrapper_bd_0_0">
-      <Config>
-        <Option Name="TopModule" Val="BD_intcon_wrapper_bd_0_0"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
-        <Option Name="UseBlackboxStub" Val="1"/>
-      </Config>
-    </FileSet>
     <FileSet Name="BD_bootrom_wrapper_0_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bootrom_wrapper_0_0">
       <Config>
         <Option Name="TopModule" Val="BD_bootrom_wrapper_0_0"/>
@@ -2477,144 +2612,9 @@
         <Option Name="UseBlackboxStub" Val="1"/>
       </Config>
     </FileSet>
-    <FileSet Name="BD_gpio_wrapper_0_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_gpio_wrapper_0_0">
+    <FileSet Name="BD_intcon_wrapper_bd_0_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_intcon_wrapper_bd_0_0">
       <Config>
-        <Option Name="TopModule" Val="BD_gpio_wrapper_0_0"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
-        <Option Name="UseBlackboxStub" Val="1"/>
-      </Config>
-    </FileSet>
-    <FileSet Name="BD_syscon_wrapper_0_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_syscon_wrapper_0_0">
-      <Config>
-        <Option Name="TopModule" Val="BD_syscon_wrapper_0_0"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
-        <Option Name="UseBlackboxStub" Val="1"/>
-      </Config>
-    </FileSet>
-    <FileSet Name="BD_bidirec_0_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_0_0">
-      <Config>
-        <Option Name="TopModule" Val="BD_bidirec_0_0"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
-        <Option Name="UseBlackboxStub" Val="1"/>
-      </Config>
-    </FileSet>
-    <FileSet Name="BD_bidirec_0_1" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_0_1">
-      <Config>
-        <Option Name="TopModule" Val="BD_bidirec_0_1"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
-        <Option Name="UseBlackboxStub" Val="1"/>
-      </Config>
-    </FileSet>
-    <FileSet Name="BD_bidirec_0_2" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_0_2">
-      <Config>
-        <Option Name="TopModule" Val="BD_bidirec_0_2"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
-        <Option Name="UseBlackboxStub" Val="1"/>
-      </Config>
-    </FileSet>
-    <FileSet Name="BD_bidirec_1_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_1_0">
-      <Config>
-        <Option Name="TopModule" Val="BD_bidirec_1_0"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
-        <Option Name="UseBlackboxStub" Val="1"/>
-      </Config>
-    </FileSet>
-    <FileSet Name="BD_bidirec_0_3" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_0_3">
-      <Config>
-        <Option Name="TopModule" Val="BD_bidirec_0_3"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
-        <Option Name="UseBlackboxStub" Val="1"/>
-      </Config>
-    </FileSet>
-    <FileSet Name="BD_bidirec_1_1" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_1_1">
-      <Config>
-        <Option Name="TopModule" Val="BD_bidirec_1_1"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
-        <Option Name="UseBlackboxStub" Val="1"/>
-      </Config>
-    </FileSet>
-    <FileSet Name="BD_bidirec_2_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_2_0">
-      <Config>
-        <Option Name="TopModule" Val="BD_bidirec_2_0"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
-        <Option Name="UseBlackboxStub" Val="1"/>
-      </Config>
-    </FileSet>
-    <FileSet Name="BD_bidirec_3_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_3_0">
-      <Config>
-        <Option Name="TopModule" Val="BD_bidirec_3_0"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
-        <Option Name="UseBlackboxStub" Val="1"/>
-      </Config>
-    </FileSet>
-    <FileSet Name="BD_bidirec_0_4" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_0_4">
-      <Config>
-        <Option Name="TopModule" Val="BD_bidirec_0_4"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
-        <Option Name="UseBlackboxStub" Val="1"/>
-      </Config>
-    </FileSet>
-    <FileSet Name="BD_bidirec_1_2" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_1_2">
-      <Config>
-        <Option Name="TopModule" Val="BD_bidirec_1_2"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
-        <Option Name="UseBlackboxStub" Val="1"/>
-      </Config>
-    </FileSet>
-    <FileSet Name="BD_bidirec_2_1" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_2_1">
-      <Config>
-        <Option Name="TopModule" Val="BD_bidirec_2_1"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
-        <Option Name="UseBlackboxStub" Val="1"/>
-      </Config>
-    </FileSet>
-    <FileSet Name="BD_bidirec_3_1" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_3_1">
-      <Config>
-        <Option Name="TopModule" Val="BD_bidirec_3_1"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
-        <Option Name="UseBlackboxStub" Val="1"/>
-      </Config>
-    </FileSet>
-    <FileSet Name="BD_bidirec_4_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_4_0">
-      <Config>
-        <Option Name="TopModule" Val="BD_bidirec_4_0"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
-        <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
-        <Option Name="UseBlackboxStub" Val="1"/>
-      </Config>
-    </FileSet>
-    <FileSet Name="BD_bidirec_5_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_5_0">
-      <Config>
-        <Option Name="TopModule" Val="BD_bidirec_5_0"/>
+        <Option Name="TopModule" Val="BD_intcon_wrapper_bd_0_0"/>
         <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include"/>
         <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include"/>
         <Option Name="VerilogDir" Val="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include"/>
@@ -2657,11 +2657,169 @@
       <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
       <RQSFiles/>
     </Run>
+    <Run Id="BD_gpio_wrapper_0_0_synth_1" Type="Ft3:Synth" SrcSet="BD_gpio_wrapper_0_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_gpio_wrapper_0_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_gpio_wrapper_0_0_synth_1" IncludeInArchive="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
+        <Step Id="synth_design"/>
+      </Strategy>
+      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
+      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_syscon_wrapper_0_0_synth_1" Type="Ft3:Synth" SrcSet="BD_syscon_wrapper_0_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_syscon_wrapper_0_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_syscon_wrapper_0_0_synth_1" IncludeInArchive="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
+        <Step Id="synth_design"/>
+      </Strategy>
+      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
+      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_0_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_0_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_0_0_synth_1" IncludeInArchive="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
+        <Step Id="synth_design"/>
+      </Strategy>
+      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
+      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_0_1_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_0_1" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_1" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_0_1_synth_1" IncludeInArchive="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
+        <Step Id="synth_design"/>
+      </Strategy>
+      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
+      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_0_2_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_0_2" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_2" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_0_2_synth_1" IncludeInArchive="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
+        <Step Id="synth_design"/>
+      </Strategy>
+      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
+      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_1_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_1_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_1_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_1_0_synth_1" IncludeInArchive="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
+        <Step Id="synth_design"/>
+      </Strategy>
+      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
+      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_0_3_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_0_3" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_3" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_0_3_synth_1" IncludeInArchive="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
+        <Step Id="synth_design"/>
+      </Strategy>
+      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
+      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_1_1_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_1_1" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_1_1" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_1_1_synth_1" IncludeInArchive="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
+        <Step Id="synth_design"/>
+      </Strategy>
+      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
+      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_2_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_2_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_2_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_2_0_synth_1" IncludeInArchive="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
+        <Step Id="synth_design"/>
+      </Strategy>
+      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
+      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_3_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_3_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_3_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_3_0_synth_1" IncludeInArchive="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
+        <Step Id="synth_design"/>
+      </Strategy>
+      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
+      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_0_4_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_0_4" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_4" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_0_4_synth_1" IncludeInArchive="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
+        <Step Id="synth_design"/>
+      </Strategy>
+      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
+      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_1_2_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_1_2" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_1_2" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_1_2_synth_1" IncludeInArchive="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
+        <Step Id="synth_design"/>
+      </Strategy>
+      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
+      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_2_1_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_2_1" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_2_1" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_2_1_synth_1" IncludeInArchive="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
+        <Step Id="synth_design"/>
+      </Strategy>
+      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
+      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_3_1_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_3_1" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_3_1" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_3_1_synth_1" IncludeInArchive="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
+        <Step Id="synth_design"/>
+      </Strategy>
+      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
+      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_4_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_4_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_4_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_4_0_synth_1" IncludeInArchive="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
+        <Step Id="synth_design"/>
+      </Strategy>
+      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
+      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_5_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_5_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_5_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_5_0_synth_1" IncludeInArchive="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
+        <Step Id="synth_design"/>
+      </Strategy>
+      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
+      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
     <Run Id="BD_bidirec_6_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_6_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_6_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_6_0_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
         <Step Id="synth_design"/>
       </Strategy>
       <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
@@ -2671,9 +2829,7 @@
     </Run>
     <Run Id="BD_bidirec_7_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_7_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_7_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_7_0_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
         <Step Id="synth_design"/>
       </Strategy>
       <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
@@ -2683,9 +2839,7 @@
     </Run>
     <Run Id="BD_bidirec_0_5_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_0_5" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_5" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_0_5_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
         <Step Id="synth_design"/>
       </Strategy>
       <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
@@ -2695,9 +2849,7 @@
     </Run>
     <Run Id="BD_bidirec_1_3_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_1_3" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_1_3" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_1_3_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
         <Step Id="synth_design"/>
       </Strategy>
       <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
@@ -2707,9 +2859,7 @@
     </Run>
     <Run Id="BD_bidirec_10_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_10_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_10_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_10_0_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
         <Step Id="synth_design"/>
       </Strategy>
       <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
@@ -2719,9 +2869,7 @@
     </Run>
     <Run Id="BD_bidirec_11_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_11_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_11_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_11_0_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
         <Step Id="synth_design"/>
       </Strategy>
       <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
@@ -2731,9 +2879,7 @@
     </Run>
     <Run Id="BD_bidirec_12_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_12_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_12_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_12_0_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
         <Step Id="synth_design"/>
       </Strategy>
       <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
@@ -2743,9 +2889,7 @@
     </Run>
     <Run Id="BD_bidirec_13_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_13_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_13_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_13_0_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
         <Step Id="synth_design"/>
       </Strategy>
       <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
@@ -2755,9 +2899,7 @@
     </Run>
     <Run Id="BD_bidirec_14_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_14_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_14_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_14_0_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
         <Step Id="synth_design"/>
       </Strategy>
       <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
@@ -2767,9 +2909,7 @@
     </Run>
     <Run Id="BD_bidirec_15_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_15_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_15_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_15_0_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
         <Step Id="synth_design"/>
       </Strategy>
       <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
@@ -2779,9 +2919,7 @@
     </Run>
     <Run Id="BD_bidirec_2_2_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_2_2" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_2_2" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_2_2_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
         <Step Id="synth_design"/>
       </Strategy>
       <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
@@ -2791,9 +2929,7 @@
     </Run>
     <Run Id="BD_bidirec_3_2_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_3_2" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_3_2" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_3_2_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
         <Step Id="synth_design"/>
       </Strategy>
       <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
@@ -2803,9 +2939,7 @@
     </Run>
     <Run Id="BD_bidirec_4_1_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_4_1" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_4_1" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_4_1_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
         <Step Id="synth_design"/>
       </Strategy>
       <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
@@ -2815,9 +2949,7 @@
     </Run>
     <Run Id="BD_bidirec_5_1_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_5_1" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_5_1" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_5_1_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
         <Step Id="synth_design"/>
       </Strategy>
       <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
@@ -2827,9 +2959,7 @@
     </Run>
     <Run Id="BD_bidirec_6_1_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_6_1" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_6_1" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_6_1_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
         <Step Id="synth_design"/>
       </Strategy>
       <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
@@ -2839,9 +2969,7 @@
     </Run>
     <Run Id="BD_bidirec_7_1_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_7_1" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_7_1" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_7_1_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
         <Step Id="synth_design"/>
       </Strategy>
       <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
@@ -2851,9 +2979,7 @@
     </Run>
     <Run Id="BD_bidirec_8_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_8_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_8_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_8_0_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
         <Step Id="synth_design"/>
       </Strategy>
       <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
@@ -2863,9 +2989,7 @@
     </Run>
     <Run Id="BD_bidirec_9_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_9_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_9_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_9_0_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
         <Step Id="synth_design"/>
       </Strategy>
       <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
@@ -2874,18 +2998,6 @@
       <RQSFiles/>
     </Run>
     <Run Id="BD_swerv_wrapper_verilog_0_0_synth_1" Type="Ft3:Synth" SrcSet="BD_swerv_wrapper_verilog_0_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_swerv_wrapper_verilog_0_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_swerv_wrapper_verilog_0_0_synth_1" IncludeInArchive="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
-        <Step Id="synth_design"/>
-      </Strategy>
-      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
-      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_intcon_wrapper_bd_0_0_synth_1" Type="Ft3:Synth" SrcSet="BD_intcon_wrapper_bd_0_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_intcon_wrapper_bd_0_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_intcon_wrapper_bd_0_0_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
         <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
           <Desc>Vivado Synthesis Defaults</Desc>
@@ -2909,7 +3021,7 @@
       <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
       <RQSFiles/>
     </Run>
-    <Run Id="BD_gpio_wrapper_0_0_synth_1" Type="Ft3:Synth" SrcSet="BD_gpio_wrapper_0_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_gpio_wrapper_0_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_gpio_wrapper_0_0_synth_1" IncludeInArchive="true">
+    <Run Id="BD_intcon_wrapper_bd_0_0_synth_1" Type="Ft3:Synth" SrcSet="BD_intcon_wrapper_bd_0_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_intcon_wrapper_bd_0_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_intcon_wrapper_bd_0_0_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
         <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
           <Desc>Vivado Synthesis Defaults</Desc>
@@ -2921,187 +3033,7 @@
       <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
       <RQSFiles/>
     </Run>
-    <Run Id="BD_syscon_wrapper_0_0_synth_1" Type="Ft3:Synth" SrcSet="BD_syscon_wrapper_0_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_syscon_wrapper_0_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_syscon_wrapper_0_0_synth_1" IncludeInArchive="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
-        <Step Id="synth_design"/>
-      </Strategy>
-      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
-      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_0_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_0_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_0_0_synth_1" IncludeInArchive="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
-        <Step Id="synth_design"/>
-      </Strategy>
-      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
-      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_0_1_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_0_1" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_1" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_0_1_synth_1" IncludeInArchive="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
-        <Step Id="synth_design"/>
-      </Strategy>
-      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
-      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_0_2_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_0_2" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_2" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_0_2_synth_1" IncludeInArchive="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
-        <Step Id="synth_design"/>
-      </Strategy>
-      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
-      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_1_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_1_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_1_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_1_0_synth_1" IncludeInArchive="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
-        <Step Id="synth_design"/>
-      </Strategy>
-      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
-      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_0_3_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_0_3" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_3" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_0_3_synth_1" IncludeInArchive="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
-        <Step Id="synth_design"/>
-      </Strategy>
-      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
-      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_1_1_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_1_1" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_1_1" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_1_1_synth_1" IncludeInArchive="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
-        <Step Id="synth_design"/>
-      </Strategy>
-      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
-      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_2_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_2_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_2_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_2_0_synth_1" IncludeInArchive="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
-        <Step Id="synth_design"/>
-      </Strategy>
-      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
-      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_3_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_3_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_3_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_3_0_synth_1" IncludeInArchive="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
-        <Step Id="synth_design"/>
-      </Strategy>
-      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
-      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_0_4_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_0_4" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_4" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_0_4_synth_1" IncludeInArchive="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
-        <Step Id="synth_design"/>
-      </Strategy>
-      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
-      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_1_2_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_1_2" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_1_2" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_1_2_synth_1" IncludeInArchive="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
-        <Step Id="synth_design"/>
-      </Strategy>
-      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
-      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_2_1_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_2_1" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_2_1" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_2_1_synth_1" IncludeInArchive="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
-        <Step Id="synth_design"/>
-      </Strategy>
-      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
-      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_3_1_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_3_1" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_3_1" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_3_1_synth_1" IncludeInArchive="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
-        <Step Id="synth_design"/>
-      </Strategy>
-      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
-      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_4_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_4_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_4_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_4_0_synth_1" IncludeInArchive="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
-        <Step Id="synth_design"/>
-      </Strategy>
-      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
-      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_5_0_synth_1" Type="Ft3:Synth" SrcSet="BD_bidirec_5_0" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_5_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/BD_bidirec_5_0_synth_1" IncludeInArchive="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
-          <Desc>Vivado Synthesis Defaults</Desc>
-        </StratHandle>
-        <Step Id="synth_design"/>
-      </Strategy>
-      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
-      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="constrs_1" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" State="current" SynthRun="synth_1" IncludeInArchive="true" GenFullBitstream="true">
+    <Run Id="impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="constrs_1" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" State="current" Dir="$PRUNDIR/impl_1" SynthRun="synth_1" IncludeInArchive="true" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
         <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
@@ -3114,15 +3046,286 @@
         <Step Id="post_route_phys_opt_design"/>
         <Step Id="write_bitstream" PreStepTclHook="$PPRDIR/script.tcl"/>
       </Strategy>
+      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
+      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_gpio_wrapper_0_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_gpio_wrapper_0_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_gpio_wrapper_0_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+        <Step Id="init_design"/>
+        <Step Id="opt_design"/>
+        <Step Id="power_opt_design"/>
+        <Step Id="place_design"/>
+        <Step Id="post_place_power_opt_design"/>
+        <Step Id="phys_opt_design" EnableStepBool="1"/>
+        <Step Id="route_design"/>
+        <Step Id="post_route_phys_opt_design"/>
+        <Step Id="write_bitstream"/>
+      </Strategy>
+      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_syscon_wrapper_0_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_syscon_wrapper_0_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_syscon_wrapper_0_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+        <Step Id="init_design"/>
+        <Step Id="opt_design"/>
+        <Step Id="power_opt_design"/>
+        <Step Id="place_design"/>
+        <Step Id="post_place_power_opt_design"/>
+        <Step Id="phys_opt_design" EnableStepBool="1"/>
+        <Step Id="route_design"/>
+        <Step Id="post_route_phys_opt_design"/>
+        <Step Id="write_bitstream"/>
+      </Strategy>
+      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_0_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_0_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+        <Step Id="init_design"/>
+        <Step Id="opt_design"/>
+        <Step Id="power_opt_design"/>
+        <Step Id="place_design"/>
+        <Step Id="post_place_power_opt_design"/>
+        <Step Id="phys_opt_design" EnableStepBool="1"/>
+        <Step Id="route_design"/>
+        <Step Id="post_route_phys_opt_design"/>
+        <Step Id="write_bitstream"/>
+      </Strategy>
+      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_0_1_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_1" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_0_1_synth_1" IncludeInArchive="false" GenFullBitstream="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+        <Step Id="init_design"/>
+        <Step Id="opt_design"/>
+        <Step Id="power_opt_design"/>
+        <Step Id="place_design"/>
+        <Step Id="post_place_power_opt_design"/>
+        <Step Id="phys_opt_design" EnableStepBool="1"/>
+        <Step Id="route_design"/>
+        <Step Id="post_route_phys_opt_design"/>
+        <Step Id="write_bitstream"/>
+      </Strategy>
+      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_0_2_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_2" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_0_2_synth_1" IncludeInArchive="false" GenFullBitstream="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+        <Step Id="init_design"/>
+        <Step Id="opt_design"/>
+        <Step Id="power_opt_design"/>
+        <Step Id="place_design"/>
+        <Step Id="post_place_power_opt_design"/>
+        <Step Id="phys_opt_design" EnableStepBool="1"/>
+        <Step Id="route_design"/>
+        <Step Id="post_route_phys_opt_design"/>
+        <Step Id="write_bitstream"/>
+      </Strategy>
+      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_1_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_1_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_1_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+        <Step Id="init_design"/>
+        <Step Id="opt_design"/>
+        <Step Id="power_opt_design"/>
+        <Step Id="place_design"/>
+        <Step Id="post_place_power_opt_design"/>
+        <Step Id="phys_opt_design" EnableStepBool="1"/>
+        <Step Id="route_design"/>
+        <Step Id="post_route_phys_opt_design"/>
+        <Step Id="write_bitstream"/>
+      </Strategy>
+      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_0_3_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_3" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_0_3_synth_1" IncludeInArchive="false" GenFullBitstream="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+        <Step Id="init_design"/>
+        <Step Id="opt_design"/>
+        <Step Id="power_opt_design"/>
+        <Step Id="place_design"/>
+        <Step Id="post_place_power_opt_design"/>
+        <Step Id="phys_opt_design" EnableStepBool="1"/>
+        <Step Id="route_design"/>
+        <Step Id="post_route_phys_opt_design"/>
+        <Step Id="write_bitstream"/>
+      </Strategy>
+      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_1_1_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_1_1" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_1_1_synth_1" IncludeInArchive="false" GenFullBitstream="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+        <Step Id="init_design"/>
+        <Step Id="opt_design"/>
+        <Step Id="power_opt_design"/>
+        <Step Id="place_design"/>
+        <Step Id="post_place_power_opt_design"/>
+        <Step Id="phys_opt_design" EnableStepBool="1"/>
+        <Step Id="route_design"/>
+        <Step Id="post_route_phys_opt_design"/>
+        <Step Id="write_bitstream"/>
+      </Strategy>
+      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_2_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_2_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_2_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+        <Step Id="init_design"/>
+        <Step Id="opt_design"/>
+        <Step Id="power_opt_design"/>
+        <Step Id="place_design"/>
+        <Step Id="post_place_power_opt_design"/>
+        <Step Id="phys_opt_design" EnableStepBool="1"/>
+        <Step Id="route_design"/>
+        <Step Id="post_route_phys_opt_design"/>
+        <Step Id="write_bitstream"/>
+      </Strategy>
+      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_3_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_3_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_3_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+        <Step Id="init_design"/>
+        <Step Id="opt_design"/>
+        <Step Id="power_opt_design"/>
+        <Step Id="place_design"/>
+        <Step Id="post_place_power_opt_design"/>
+        <Step Id="phys_opt_design" EnableStepBool="1"/>
+        <Step Id="route_design"/>
+        <Step Id="post_route_phys_opt_design"/>
+        <Step Id="write_bitstream"/>
+      </Strategy>
+      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_0_4_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_4" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_0_4_synth_1" IncludeInArchive="false" GenFullBitstream="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+        <Step Id="init_design"/>
+        <Step Id="opt_design"/>
+        <Step Id="power_opt_design"/>
+        <Step Id="place_design"/>
+        <Step Id="post_place_power_opt_design"/>
+        <Step Id="phys_opt_design" EnableStepBool="1"/>
+        <Step Id="route_design"/>
+        <Step Id="post_route_phys_opt_design"/>
+        <Step Id="write_bitstream"/>
+      </Strategy>
+      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_1_2_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_1_2" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_1_2_synth_1" IncludeInArchive="false" GenFullBitstream="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+        <Step Id="init_design"/>
+        <Step Id="opt_design"/>
+        <Step Id="power_opt_design"/>
+        <Step Id="place_design"/>
+        <Step Id="post_place_power_opt_design"/>
+        <Step Id="phys_opt_design" EnableStepBool="1"/>
+        <Step Id="route_design"/>
+        <Step Id="post_route_phys_opt_design"/>
+        <Step Id="write_bitstream"/>
+      </Strategy>
+      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_2_1_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_2_1" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_2_1_synth_1" IncludeInArchive="false" GenFullBitstream="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+        <Step Id="init_design"/>
+        <Step Id="opt_design"/>
+        <Step Id="power_opt_design"/>
+        <Step Id="place_design"/>
+        <Step Id="post_place_power_opt_design"/>
+        <Step Id="phys_opt_design" EnableStepBool="1"/>
+        <Step Id="route_design"/>
+        <Step Id="post_route_phys_opt_design"/>
+        <Step Id="write_bitstream"/>
+      </Strategy>
+      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_3_1_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_3_1" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_3_1_synth_1" IncludeInArchive="false" GenFullBitstream="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+        <Step Id="init_design"/>
+        <Step Id="opt_design"/>
+        <Step Id="power_opt_design"/>
+        <Step Id="place_design"/>
+        <Step Id="post_place_power_opt_design"/>
+        <Step Id="phys_opt_design" EnableStepBool="1"/>
+        <Step Id="route_design"/>
+        <Step Id="post_route_phys_opt_design"/>
+        <Step Id="write_bitstream"/>
+      </Strategy>
+      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_4_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_4_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_4_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+        <Step Id="init_design"/>
+        <Step Id="opt_design"/>
+        <Step Id="power_opt_design"/>
+        <Step Id="place_design"/>
+        <Step Id="post_place_power_opt_design"/>
+        <Step Id="phys_opt_design" EnableStepBool="1"/>
+        <Step Id="route_design"/>
+        <Step Id="post_route_phys_opt_design"/>
+        <Step Id="write_bitstream"/>
+      </Strategy>
+      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
+      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
+      <RQSFiles/>
+    </Run>
+    <Run Id="BD_bidirec_5_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_5_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_5_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
+      <Strategy Version="1" Minor="2">
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+        <Step Id="init_design"/>
+        <Step Id="opt_design"/>
+        <Step Id="power_opt_design"/>
+        <Step Id="place_design"/>
+        <Step Id="post_place_power_opt_design"/>
+        <Step Id="phys_opt_design" EnableStepBool="1"/>
+        <Step Id="route_design"/>
+        <Step Id="post_route_phys_opt_design"/>
+        <Step Id="write_bitstream"/>
+      </Strategy>
       <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
       <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
       <RQSFiles/>
     </Run>
     <Run Id="BD_bidirec_6_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_6_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_6_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
         <Step Id="opt_design"/>
         <Step Id="power_opt_design"/>
@@ -3139,9 +3342,7 @@
     </Run>
     <Run Id="BD_bidirec_7_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_7_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_7_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
         <Step Id="opt_design"/>
         <Step Id="power_opt_design"/>
@@ -3158,9 +3359,7 @@
     </Run>
     <Run Id="BD_bidirec_0_5_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_5" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_0_5_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
         <Step Id="opt_design"/>
         <Step Id="power_opt_design"/>
@@ -3177,9 +3376,7 @@
     </Run>
     <Run Id="BD_bidirec_1_3_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_1_3" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_1_3_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
         <Step Id="opt_design"/>
         <Step Id="power_opt_design"/>
@@ -3196,9 +3393,7 @@
     </Run>
     <Run Id="BD_bidirec_10_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_10_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_10_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
         <Step Id="opt_design"/>
         <Step Id="power_opt_design"/>
@@ -3215,9 +3410,7 @@
     </Run>
     <Run Id="BD_bidirec_11_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_11_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_11_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
         <Step Id="opt_design"/>
         <Step Id="power_opt_design"/>
@@ -3234,9 +3427,7 @@
     </Run>
     <Run Id="BD_bidirec_12_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_12_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_12_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
         <Step Id="opt_design"/>
         <Step Id="power_opt_design"/>
@@ -3253,9 +3444,7 @@
     </Run>
     <Run Id="BD_bidirec_13_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_13_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_13_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
         <Step Id="opt_design"/>
         <Step Id="power_opt_design"/>
@@ -3272,9 +3461,7 @@
     </Run>
     <Run Id="BD_bidirec_14_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_14_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_14_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
         <Step Id="opt_design"/>
         <Step Id="power_opt_design"/>
@@ -3291,9 +3478,7 @@
     </Run>
     <Run Id="BD_bidirec_15_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_15_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_15_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
         <Step Id="opt_design"/>
         <Step Id="power_opt_design"/>
@@ -3310,9 +3495,7 @@
     </Run>
     <Run Id="BD_bidirec_2_2_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_2_2" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_2_2_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
         <Step Id="opt_design"/>
         <Step Id="power_opt_design"/>
@@ -3329,9 +3512,7 @@
     </Run>
     <Run Id="BD_bidirec_3_2_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_3_2" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_3_2_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
         <Step Id="opt_design"/>
         <Step Id="power_opt_design"/>
@@ -3348,9 +3529,7 @@
     </Run>
     <Run Id="BD_bidirec_4_1_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_4_1" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_4_1_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
         <Step Id="opt_design"/>
         <Step Id="power_opt_design"/>
@@ -3367,9 +3546,7 @@
     </Run>
     <Run Id="BD_bidirec_5_1_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_5_1" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_5_1_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
         <Step Id="opt_design"/>
         <Step Id="power_opt_design"/>
@@ -3386,9 +3563,7 @@
     </Run>
     <Run Id="BD_bidirec_6_1_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_6_1" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_6_1_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
         <Step Id="opt_design"/>
         <Step Id="power_opt_design"/>
@@ -3405,9 +3580,7 @@
     </Run>
     <Run Id="BD_bidirec_7_1_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_7_1" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_7_1_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
         <Step Id="opt_design"/>
         <Step Id="power_opt_design"/>
@@ -3424,9 +3597,7 @@
     </Run>
     <Run Id="BD_bidirec_8_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_8_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_8_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
         <Step Id="opt_design"/>
         <Step Id="power_opt_design"/>
@@ -3443,9 +3614,7 @@
     </Run>
     <Run Id="BD_bidirec_9_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_9_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_9_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
+        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
         <Step Id="init_design"/>
         <Step Id="opt_design"/>
         <Step Id="power_opt_design"/>
@@ -3461,25 +3630,6 @@
       <RQSFiles/>
     </Run>
     <Run Id="BD_swerv_wrapper_verilog_0_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_swerv_wrapper_verilog_0_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_swerv_wrapper_verilog_0_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
-        <Step Id="init_design"/>
-        <Step Id="opt_design"/>
-        <Step Id="power_opt_design"/>
-        <Step Id="place_design"/>
-        <Step Id="post_place_power_opt_design"/>
-        <Step Id="phys_opt_design" EnableStepBool="1"/>
-        <Step Id="route_design"/>
-        <Step Id="post_route_phys_opt_design"/>
-        <Step Id="write_bitstream"/>
-      </Strategy>
-      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_intcon_wrapper_bd_0_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_intcon_wrapper_bd_0_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_intcon_wrapper_bd_0_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
         <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
           <Desc>Default settings for Implementation.</Desc>
@@ -3517,292 +3667,7 @@
       <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
       <RQSFiles/>
     </Run>
-    <Run Id="BD_gpio_wrapper_0_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_gpio_wrapper_0_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_gpio_wrapper_0_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
-        <Step Id="init_design"/>
-        <Step Id="opt_design"/>
-        <Step Id="power_opt_design"/>
-        <Step Id="place_design"/>
-        <Step Id="post_place_power_opt_design"/>
-        <Step Id="phys_opt_design" EnableStepBool="1"/>
-        <Step Id="route_design"/>
-        <Step Id="post_route_phys_opt_design"/>
-        <Step Id="write_bitstream"/>
-      </Strategy>
-      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_syscon_wrapper_0_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_syscon_wrapper_0_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_syscon_wrapper_0_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
-        <Step Id="init_design"/>
-        <Step Id="opt_design"/>
-        <Step Id="power_opt_design"/>
-        <Step Id="place_design"/>
-        <Step Id="post_place_power_opt_design"/>
-        <Step Id="phys_opt_design" EnableStepBool="1"/>
-        <Step Id="route_design"/>
-        <Step Id="post_route_phys_opt_design"/>
-        <Step Id="write_bitstream"/>
-      </Strategy>
-      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_0_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_0_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
-        <Step Id="init_design"/>
-        <Step Id="opt_design"/>
-        <Step Id="power_opt_design"/>
-        <Step Id="place_design"/>
-        <Step Id="post_place_power_opt_design"/>
-        <Step Id="phys_opt_design" EnableStepBool="1"/>
-        <Step Id="route_design"/>
-        <Step Id="post_route_phys_opt_design"/>
-        <Step Id="write_bitstream"/>
-      </Strategy>
-      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_0_1_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_1" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_0_1_synth_1" IncludeInArchive="false" GenFullBitstream="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
-        <Step Id="init_design"/>
-        <Step Id="opt_design"/>
-        <Step Id="power_opt_design"/>
-        <Step Id="place_design"/>
-        <Step Id="post_place_power_opt_design"/>
-        <Step Id="phys_opt_design" EnableStepBool="1"/>
-        <Step Id="route_design"/>
-        <Step Id="post_route_phys_opt_design"/>
-        <Step Id="write_bitstream"/>
-      </Strategy>
-      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_0_2_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_2" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_0_2_synth_1" IncludeInArchive="false" GenFullBitstream="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
-        <Step Id="init_design"/>
-        <Step Id="opt_design"/>
-        <Step Id="power_opt_design"/>
-        <Step Id="place_design"/>
-        <Step Id="post_place_power_opt_design"/>
-        <Step Id="phys_opt_design" EnableStepBool="1"/>
-        <Step Id="route_design"/>
-        <Step Id="post_route_phys_opt_design"/>
-        <Step Id="write_bitstream"/>
-      </Strategy>
-      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_1_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_1_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_1_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
-        <Step Id="init_design"/>
-        <Step Id="opt_design"/>
-        <Step Id="power_opt_design"/>
-        <Step Id="place_design"/>
-        <Step Id="post_place_power_opt_design"/>
-        <Step Id="phys_opt_design" EnableStepBool="1"/>
-        <Step Id="route_design"/>
-        <Step Id="post_route_phys_opt_design"/>
-        <Step Id="write_bitstream"/>
-      </Strategy>
-      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_0_3_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_3" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_0_3_synth_1" IncludeInArchive="false" GenFullBitstream="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
-        <Step Id="init_design"/>
-        <Step Id="opt_design"/>
-        <Step Id="power_opt_design"/>
-        <Step Id="place_design"/>
-        <Step Id="post_place_power_opt_design"/>
-        <Step Id="phys_opt_design" EnableStepBool="1"/>
-        <Step Id="route_design"/>
-        <Step Id="post_route_phys_opt_design"/>
-        <Step Id="write_bitstream"/>
-      </Strategy>
-      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_1_1_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_1_1" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_1_1_synth_1" IncludeInArchive="false" GenFullBitstream="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
-        <Step Id="init_design"/>
-        <Step Id="opt_design"/>
-        <Step Id="power_opt_design"/>
-        <Step Id="place_design"/>
-        <Step Id="post_place_power_opt_design"/>
-        <Step Id="phys_opt_design" EnableStepBool="1"/>
-        <Step Id="route_design"/>
-        <Step Id="post_route_phys_opt_design"/>
-        <Step Id="write_bitstream"/>
-      </Strategy>
-      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_2_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_2_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_2_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
-        <Step Id="init_design"/>
-        <Step Id="opt_design"/>
-        <Step Id="power_opt_design"/>
-        <Step Id="place_design"/>
-        <Step Id="post_place_power_opt_design"/>
-        <Step Id="phys_opt_design" EnableStepBool="1"/>
-        <Step Id="route_design"/>
-        <Step Id="post_route_phys_opt_design"/>
-        <Step Id="write_bitstream"/>
-      </Strategy>
-      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_3_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_3_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_3_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
-        <Step Id="init_design"/>
-        <Step Id="opt_design"/>
-        <Step Id="power_opt_design"/>
-        <Step Id="place_design"/>
-        <Step Id="post_place_power_opt_design"/>
-        <Step Id="phys_opt_design" EnableStepBool="1"/>
-        <Step Id="route_design"/>
-        <Step Id="post_route_phys_opt_design"/>
-        <Step Id="write_bitstream"/>
-      </Strategy>
-      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_0_4_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_0_4" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_0_4_synth_1" IncludeInArchive="false" GenFullBitstream="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
-        <Step Id="init_design"/>
-        <Step Id="opt_design"/>
-        <Step Id="power_opt_design"/>
-        <Step Id="place_design"/>
-        <Step Id="post_place_power_opt_design"/>
-        <Step Id="phys_opt_design" EnableStepBool="1"/>
-        <Step Id="route_design"/>
-        <Step Id="post_route_phys_opt_design"/>
-        <Step Id="write_bitstream"/>
-      </Strategy>
-      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_1_2_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_1_2" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_1_2_synth_1" IncludeInArchive="false" GenFullBitstream="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
-        <Step Id="init_design"/>
-        <Step Id="opt_design"/>
-        <Step Id="power_opt_design"/>
-        <Step Id="place_design"/>
-        <Step Id="post_place_power_opt_design"/>
-        <Step Id="phys_opt_design" EnableStepBool="1"/>
-        <Step Id="route_design"/>
-        <Step Id="post_route_phys_opt_design"/>
-        <Step Id="write_bitstream"/>
-      </Strategy>
-      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_2_1_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_2_1" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_2_1_synth_1" IncludeInArchive="false" GenFullBitstream="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
-        <Step Id="init_design"/>
-        <Step Id="opt_design"/>
-        <Step Id="power_opt_design"/>
-        <Step Id="place_design"/>
-        <Step Id="post_place_power_opt_design"/>
-        <Step Id="phys_opt_design" EnableStepBool="1"/>
-        <Step Id="route_design"/>
-        <Step Id="post_route_phys_opt_design"/>
-        <Step Id="write_bitstream"/>
-      </Strategy>
-      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_3_1_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_3_1" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_3_1_synth_1" IncludeInArchive="false" GenFullBitstream="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
-        <Step Id="init_design"/>
-        <Step Id="opt_design"/>
-        <Step Id="power_opt_design"/>
-        <Step Id="place_design"/>
-        <Step Id="post_place_power_opt_design"/>
-        <Step Id="phys_opt_design" EnableStepBool="1"/>
-        <Step Id="route_design"/>
-        <Step Id="post_route_phys_opt_design"/>
-        <Step Id="write_bitstream"/>
-      </Strategy>
-      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_4_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_4_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_4_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-          <Desc>Default settings for Implementation.</Desc>
-        </StratHandle>
-        <Step Id="init_design"/>
-        <Step Id="opt_design"/>
-        <Step Id="power_opt_design"/>
-        <Step Id="place_design"/>
-        <Step Id="post_place_power_opt_design"/>
-        <Step Id="phys_opt_design" EnableStepBool="1"/>
-        <Step Id="route_design"/>
-        <Step Id="post_route_phys_opt_design"/>
-        <Step Id="write_bitstream"/>
-      </Strategy>
-      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2019"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-      <RQSFiles/>
-    </Run>
-    <Run Id="BD_bidirec_5_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_bidirec_5_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_bidirec_5_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
+    <Run Id="BD_intcon_wrapper_bd_0_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a100tcsg324-1" ConstrsSet="BD_intcon_wrapper_bd_0_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="BD_intcon_wrapper_bd_0_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
         <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
           <Desc>Default settings for Implementation.</Desc>
