@@ -1,7 +1,7 @@
 // Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 // --------------------------------------------------------------------------------
 // Tool Version: Vivado v.2019.2 (lin64) Build 2708876 Wed Nov  6 21:39:14 MST 2019
-// Date        : Mon May 31 16:37:59 2021
+// Date        : Tue Jun  1 14:37:56 2021
 // Host        : Dusky-Darjeeling running 64-bit Ubuntu 20.04.2 LTS
 // Command     : write_verilog -force -mode synth_stub
 //               /home/chuck/ece544_final_project/chuck/RVfpgaSoC-May21_2021/RVfpgaSoC/Labs/LabResources/Lab1/Lab1.srcs/sources_1/bd/BD/ip/BD_bidirec_1_2/BD_bidirec_1_2_stub.v

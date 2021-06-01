@@ -1,7 +1,7 @@
 Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2019.2 (lin64) Build 2708876 Wed Nov  6 21:39:14 MST 2019
-| Date         : Mon May 31 18:05:17 2021
+| Date         : Tue Jun  1 15:23:31 2021
 | Host         : Dusky-Darjeeling running 64-bit Ubuntu 20.04.2 LTS
 | Command      : report_methodology -file rvfpga_methodology_drc_routed.rpt -pb rvfpga_methodology_drc_routed.pb -rpx rvfpga_methodology_drc_routed.rpx
 | Design       : rvfpga
@@ -841,17 +841,17 @@ Related violations: <none>
 
 SYNTH-6#1 Warning
 Timing of a block RAM might be sub-optimal  
-The timing for the instance ddr2/ldc/serv_rf_top/rf_ram/memory_reg, implemented as a block RAM, might be sub-optimal as no output register was merged into the block
+The timing for the instance ddr2/ldc/mem_1_reg_1, implemented as a block RAM, might be sub-optimal as no output register was merged into the block
 Related violations: <none>
 
 SYNTH-6#2 Warning
 Timing of a block RAM might be sub-optimal  
-The timing for the instance ddr2/ldc/storage_10_reg_0, implemented as a block RAM, might be sub-optimal as no output register was merged into the block
+The timing for the instance ddr2/ldc/serv_rf_top/rf_ram/memory_reg, implemented as a block RAM, might be sub-optimal as no output register was merged into the block
 Related violations: <none>
 
 SYNTH-6#3 Warning
 Timing of a block RAM might be sub-optimal  
-The timing for the instance ddr2/ldc/storage_10_reg_1, implemented as a block RAM, might be sub-optimal as no output register was merged into the block
+The timing for the instance ddr2/ldc/storage_10_reg_0, implemented as a block RAM, might be sub-optimal as no output register was merged into the block
 Related violations: <none>
 
 TIMING-9#1 Warning

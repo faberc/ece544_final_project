@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="BD_bidirec_10_0_synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1622503767">
+<GenRun Id="BD_bidirec_10_0_synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1622582306">
   <File Type="VDS-TIMING-PB" Name="BD_bidirec_10_0_timing_summary_synth.pb"/>
   <File Type="VDS-TIMINGSUMMARY" Name="BD_bidirec_10_0_timing_summary_synth.rpt"/>
   <File Type="RDS-DCP" Name="BD_bidirec_10_0.dcp"/>
-  <File Type="RDS-UTIL-PB" Name="BD_bidirec_10_0_utilization_synth.pb"/>
-  <File Type="RDS-UTIL" Name="BD_bidirec_10_0_utilization_synth.rpt"/>
-  <File Type="RDS-PROPCONSTRS" Name="BD_bidirec_10_0_drc_synth.rpt"/>
-  <File Type="RDS-RDS" Name="BD_bidirec_10_0.vds"/>
   <File Type="REPORTS-TCL" Name="BD_bidirec_10_0_reports.tcl"/>
   <File Type="PA-TCL" Name="BD_bidirec_10_0.tcl"/>
+  <File Type="RDS-RDS" Name="BD_bidirec_10_0.vds"/>
+  <File Type="RDS-PROPCONSTRS" Name="BD_bidirec_10_0_drc_synth.rpt"/>
+  <File Type="RDS-UTIL" Name="BD_bidirec_10_0_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="BD_bidirec_10_0_utilization_synth.pb"/>
   <FileSet Name="sources" Type="BlockSrcs" RelSrcDir="$PSRCDIR/BD_bidirec_10_0">
     <File Path="$PSRCDIR/sources_1/bd/BD/ip/BD_bidirec_10_0/BD_bidirec_10_0.xci">
       <FileInfo>
@@ -54,7 +54,9 @@
     </Config>
   </FileSet>
   <Strategy Version="1" Minor="2">
-    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
+      <Desc>Vivado Synthesis Defaults</Desc>
+    </StratHandle>
     <Step Id="synth_design"/>
   </Strategy>
 </GenRun>

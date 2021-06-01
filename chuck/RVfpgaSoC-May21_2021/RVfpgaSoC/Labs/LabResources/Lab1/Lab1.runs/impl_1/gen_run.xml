@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1622508466">
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1622582331">
   <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
   <File Type="BITSTR-SYSDEF" Name="rvfpga.sysdef"/>
   <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
@@ -2191,9 +2191,6 @@
     <Step Id="post_route_phys_opt_design"/>
     <Step Id="write_bitstream" PreStepTclHook="$PPRDIR/script.tcl"/>
   </Strategy>
-  <BlockFileSet Type="BlockSrcs" Name="BD_intcon_wrapper_bd_0_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bootrom_wrapper_0_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_swerv_wrapper_verilog_0_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_9_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_8_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_7_1"/>
@@ -2228,4 +2225,7 @@
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_0_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_syscon_wrapper_0_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_gpio_wrapper_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bootrom_wrapper_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_intcon_wrapper_bd_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_swerv_wrapper_verilog_0_0"/>
 </GenRun>
