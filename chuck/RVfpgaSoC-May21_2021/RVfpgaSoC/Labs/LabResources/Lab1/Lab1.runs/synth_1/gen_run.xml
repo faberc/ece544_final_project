@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1622498575">
+<GenRun Id="synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1622508466">
   <File Type="VDS-TIMING-PB" Name="rvfpga_timing_summary_synth.pb"/>
   <File Type="VDS-TIMINGSUMMARY" Name="rvfpga_timing_summary_synth.rpt"/>
   <File Type="RDS-DCP" Name="rvfpga.dcp"/>
@@ -2117,6 +2117,31 @@
     <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019"/>
     <Step Id="synth_design"/>
   </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="BD_intcon_wrapper_bd_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bootrom_wrapper_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_swerv_wrapper_verilog_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_9_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_8_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_7_1"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_15_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_14_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_13_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_12_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_11_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_10_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_6_1"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_7_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_5_1"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_6_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_4_1"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_3_2"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_0_5"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_5_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_2_2"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_1_3"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_4_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_3_1"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_0_4"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_2_1"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_1_2"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_3_0"/>
@@ -2129,29 +2154,4 @@
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_0_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_syscon_wrapper_0_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_gpio_wrapper_0_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bootrom_wrapper_0_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_intcon_wrapper_bd_0_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_swerv_wrapper_verilog_0_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_9_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_8_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_7_1"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_15_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_14_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_13_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_12_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_11_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_10_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_4_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_3_1"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_0_4"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_2_2"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_1_3"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_5_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_4_1"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_3_2"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_0_5"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_6_1"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_7_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_5_1"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_6_0"/>
 </GenRun>

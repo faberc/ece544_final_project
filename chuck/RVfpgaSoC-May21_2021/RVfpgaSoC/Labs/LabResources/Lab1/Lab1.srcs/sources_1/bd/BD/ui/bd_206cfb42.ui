@@ -88,9 +88,6 @@ preplace portBus dmi_reg_addr_0 -pg 1 -lvl 0 -x 0 -y 3700 -defaultsOSRD
 preplace portBus dmi_reg_rdata_0 -pg 1 -lvl 5 -x 4370 -y 4920 -defaultsOSRD
 preplace portBus AN_0 -pg 1 -lvl 5 -x 4370 -y 1540 -defaultsOSRD
 preplace portBus Digits_Bits_0 -pg 1 -lvl 5 -x 4370 -y 1560 -defaultsOSRD
-preplace inst swerv_wrapper_verilog_0 -pg 1 -lvl 1 -x 300 -y 3670 -defaultsOSRD
-preplace inst intcon_wrapper_bd_0 -pg 1 -lvl 2 -x 1700 -y 3730 -defaultsOSRD
-preplace inst bootrom_wrapper_0 -pg 1 -lvl 1 -x 300 -y 5050 -defaultsOSRD
 preplace inst gpio_wrapper_0 -pg 1 -lvl 3 -x 2980 -y 2470 -defaultsOSRD
 preplace inst syscon_wrapper_0 -pg 1 -lvl 4 -x 4020 -y 1500 -defaultsOSRD
 preplace inst bidirec_0 -pg 1 -lvl 4 -x 4020 -y 70 -defaultsOSRD
@@ -125,6 +122,9 @@ preplace inst bidirec_15 -pg 1 -lvl 4 -x 4020 -y 3020 -defaultsOSRD
 preplace inst bidirec_29 -pg 1 -lvl 4 -x 4020 -y 4320 -defaultsOSRD
 preplace inst bidirec_30 -pg 1 -lvl 4 -x 4020 -y 4850 -defaultsOSRD
 preplace inst bidirec_31 -pg 1 -lvl 4 -x 4020 -y 3890 -defaultsOSRD
+preplace inst swerv_wrapper_verilog_0 -pg 1 -lvl 1 -x 300 -y 3670 -defaultsOSRD
+preplace inst bootrom_wrapper_0 -pg 1 -lvl 1 -x 300 -y 5050 -defaultsOSRD
+preplace inst intcon_wrapper_bd_0 -pg 1 -lvl 2 -x 1700 -y 3730 -defaultsOSRD
 preplace netloc swerv_wrapper_verilog_0_ifu_axi_arid 1 1 1 640 2700n
 preplace netloc swerv_wrapper_verilog_0_ifu_axi_araddr 1 1 1 630 2720n
 preplace netloc swerv_wrapper_verilog_0_ifu_axi_arlen 1 1 1 620 2740n
