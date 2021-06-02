@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="BD_intcon_wrapper_bd_0_0_synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1622507075">
+<GenRun Id="BD_intcon_wrapper_bd_0_0_synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1622582265">
   <File Type="VDS-TIMING-PB" Name="BD_intcon_wrapper_bd_0_0_timing_summary_synth.pb"/>
   <File Type="VDS-TIMINGSUMMARY" Name="BD_intcon_wrapper_bd_0_0_timing_summary_synth.rpt"/>
   <File Type="RDS-DCP" Name="BD_intcon_wrapper_bd_0_0.dcp"/>

@@ -1,7 +1,7 @@
 Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 ----------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version     : Vivado v.2019.2 (lin64) Build 2708876 Wed Nov  6 21:39:14 MST 2019
-| Date             : Mon May 31 18:05:44 2021
+| Date             : Tue Jun  1 15:23:59 2021
 | Host             : Dusky-Darjeeling running 64-bit Ubuntu 20.04.2 LTS
 | Command          : report_power -file rvfpga_power_routed.rpt -pb rvfpga_power_summary_routed.pb -rpx rvfpga_power_routed.rpx
 | Design           : rvfpga
@@ -30,7 +30,7 @@ Table of Contents
 ----------
 
 +--------------------------+--------------+
-| Total On-Chip Power (W)  | 0.935        |
+| Total On-Chip Power (W)  | 0.934        |
 | Design Power Budget (W)  | Unspecified* |
 | Power Budget Margin (W)  | NA           |
 | Dynamic (W)              | 0.825        |
@@ -54,20 +54,20 @@ Table of Contents
 +--------------------------+-----------+----------+-----------+-----------------+
 | Clocks                   |     0.041 |       13 |       --- |             --- |
 | Slice Logic              |     0.016 |    59865 |       --- |             --- |
-|   LUT as Logic           |     0.014 |    33304 |     63400 |           52.53 |
+|   LUT as Logic           |     0.014 |    33388 |     63400 |           52.66 |
 |   LUT as Distributed RAM |    <0.001 |      244 |     19000 |            1.28 |
 |   CARRY4                 |    <0.001 |      821 |     15850 |            5.18 |
 |   Register               |    <0.001 |    18546 |    126800 |           14.63 |
 |   F7/F8 Muxes            |    <0.001 |      492 |     63400 |            0.78 |
 |   LUT as Shift Register  |    <0.001 |        5 |     19000 |            0.03 |
 |   Others                 |     0.000 |     1178 |       --- |             --- |
-| Signals                  |     0.024 |    49185 |       --- |             --- |
+| Signals                  |     0.024 |    49191 |       --- |             --- |
 | Block RAM                |     0.068 |       44 |       135 |           32.59 |
 | PLL                      |     0.278 |        2 |         6 |           33.33 |
 | DSPs                     |    <0.001 |        4 |       240 |            1.67 |
 | I/O                      |     0.398 |       86 |       210 |           40.95 |
 | Static Power             |     0.110 |          |           |                 |
-| Total                    |     0.935 |          |           |                 |
+| Total                    |     0.934 |          |           |                 |
 +--------------------------+-----------+----------+-----------+-----------------+
 
 

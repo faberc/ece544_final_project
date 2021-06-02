@@ -1,7 +1,7 @@
 //Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 //--------------------------------------------------------------------------------
 //Tool Version: Vivado v.2019.2 (lin64) Build 2708876 Wed Nov  6 21:39:14 MST 2019
-//Date        : Sun May 30 12:15:26 2021
+//Date        : Sun May 30 13:59:23 2021
 //Host        : ece544-VirtualBox running 64-bit Ubuntu 18.04.4 LTS
 //Command     : generate_target BD.bd
 //Design      : BD
@@ -1027,7 +1027,7 @@ module BD
         .wb_uart_dat_i({1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0,1'b0}),
         .wb_uart_err_i(1'b0),
         .wb_uart_rty_i(1'b0));
-  BD_swerv_wrapper_verilog_0_0 swerv_wrapper_verilog_0
+  BD_swerv_wrapper_verilog_0_0 swerv_wrapper_verilog
        (.clk(clk_0_1),
         .dmi_hard_reset(dmi_hard_reset_0_1),
         .dmi_reg_addr(dmi_reg_addr_0_1),
