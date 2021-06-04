@@ -2,8 +2,8 @@
 # Vivado v2019.2 (64-bit)
 # SW Build 2708876 on Wed Nov  6 21:39:14 MST 2019
 # IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
-# Start of session at: Wed Jun  2 13:47:17 2021
-# Process ID: 36590
+# Start of session at: Thu Jun  3 14:42:12 2021
+# Process ID: 10885
 # Current directory: /home/chuck/ece544_final_project/chuck/RVfpgaSoC-May21_2021/RVfpgaSoC/Labs/LabResources/SweRVolf/build/swervolf_0.7.3/nexys_a7-vivado/swervolf_0.7.3.runs/impl_1
 # Command line: vivado -log swervolf_nexys_a7.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source swervolf_nexys_a7.tcl -notrace
 # Log file: /home/chuck/ece544_final_project/chuck/RVfpgaSoC-May21_2021/RVfpgaSoC/Labs/LabResources/SweRVolf/build/swervolf_0.7.3/nexys_a7-vivado/swervolf_0.7.3.runs/impl_1/swervolf_nexys_a7.vdi
