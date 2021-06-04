@@ -2,8 +2,8 @@
 # Vivado v2019.2 (64-bit)
 # SW Build 2708876 on Wed Nov  6 21:39:14 MST 2019
 # IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
-# Start of session at: Wed Jun  2 13:36:31 2021
-# Process ID: 36290
+# Start of session at: Thu Jun  3 14:26:38 2021
+# Process ID: 10600
 # Current directory: /home/chuck/ece544_final_project/chuck/RVfpgaSoC-May21_2021/RVfpgaSoC/Labs/LabResources/SweRVolf/build/swervolf_0.7.3/nexys_a7-vivado/swervolf_0.7.3.runs/synth_1
 # Command line: vivado -log swervolf_nexys_a7.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source swervolf_nexys_a7.tcl
 # Log file: /home/chuck/ece544_final_project/chuck/RVfpgaSoC-May21_2021/RVfpgaSoC/Labs/LabResources/SweRVolf/build/swervolf_0.7.3/nexys_a7-vivado/swervolf_0.7.3.runs/synth_1/swervolf_nexys_a7.vds
@@ -16,14 +16,14 @@ Attempting to get a license for feature 'Synthesis' and/or device 'xc7a100t'
 INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a100t'
 INFO: [Device 21-403] Loading part xc7a100tcsg324-1
 INFO: Launching helper process for spawning children vivado processes
-INFO: Helper process launched with PID 36295 
+INFO: Helper process launched with PID 10605 
 WARNING: [Synth 8-1921] elaboration system task error violates IEEE 1800 syntax [/home/chuck/ece544_final_project/chuck/RVfpgaSoC-May21_2021/RVfpgaSoC/Labs/LabResources/SweRVolf/build/swervolf_0.7.3/src/chipsalliance.org_cores_SweRV_EH1_1.8/design/lib/beh_lib.sv:230]
 WARNING: [Synth 8-2507] parameter declaration becomes local in axi2wb with formal parameter declaration list [/home/chuck/ece544_final_project/chuck/RVfpgaSoC-May21_2021/RVfpgaSoC/Labs/LabResources/SweRVolf/build/swervolf_0.7.3/src/swervolf_0.7.3/rtl/axi2wb.v:83]
 WARNING: [Synth 8-2507] parameter declaration becomes local in axi2wb with formal parameter declaration list [/home/chuck/ece544_final_project/chuck/RVfpgaSoC-May21_2021/RVfpgaSoC/Labs/LabResources/SweRVolf/build/swervolf_0.7.3/src/swervolf_0.7.3/rtl/axi2wb.v:93]
 WARNING: [Synth 8-2507] parameter declaration becomes local in wb_arbiter with formal parameter declaration list [/home/chuck/ece544_final_project/chuck/RVfpgaSoC-May21_2021/RVfpgaSoC/Labs/LabResources/SweRVolf/build/swervolf_0.7.3/src/wb_intercon_1.2.2-r1/rtl/verilog/wb_arbiter.v:81]
 WARNING: [Synth 8-2507] parameter declaration becomes local in wb_mux with formal parameter declaration list [/home/chuck/ece544_final_project/chuck/RVfpgaSoC-May21_2021/RVfpgaSoC/Labs/LabResources/SweRVolf/build/swervolf_0.7.3/src/wb_intercon_1.2.2-r1/rtl/verilog/wb_mux.v:84]
 ---------------------------------------------------------------------------------
-Starting RTL Elaboration : Time (s): cpu = 00:00:04 ; elapsed = 00:00:06 . Memory (MB): peak = 1878.957 ; gain = 204.688 ; free physical = 3223 ; free virtual = 7323
+Starting RTL Elaboration : Time (s): cpu = 00:00:05 ; elapsed = 00:00:07 . Memory (MB): peak = 1878.957 ; gain = 204.688 ; free physical = 140 ; free virtual = 7672
 ---------------------------------------------------------------------------------
 INFO: [Synth 8-6157] synthesizing module 'swervolf_nexys_a7' [/home/chuck/ece544_final_project/chuck/RVfpgaSoC-May21_2021/RVfpgaSoC/Labs/LabResources/SweRVolf/build/swervolf_0.7.3/src/swervolf_0.7.3/rtl/swervolf_nexys.v:25]
 	Parameter bootrom_file bound to: bootloader.vh - type: string 
@@ -1652,7 +1652,7 @@ WARNING: [Synth 8-3331] design dma_ctrl has unconnected port dma_axi_arlen[0]
 WARNING: [Synth 8-3331] design dma_ctrl has unconnected port dma_axi_arburst[1]
 INFO: [Common 17-14] Message 'Synth 8-3331' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
 ---------------------------------------------------------------------------------
-Finished RTL Elaboration : Time (s): cpu = 00:00:18 ; elapsed = 00:00:21 . Memory (MB): peak = 2287.020 ; gain = 612.750 ; free physical = 2937 ; free virtual = 7045
+Finished RTL Elaboration : Time (s): cpu = 00:00:21 ; elapsed = 00:00:24 . Memory (MB): peak = 2287.020 ; gain = 612.750 ; free physical = 253 ; free virtual = 7407
 ---------------------------------------------------------------------------------
 
 Report Check Netlist: 
@@ -1665,12 +1665,12 @@ Report Check Netlist:
 Start Handling Custom Attributes
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Handling Custom Attributes : Time (s): cpu = 00:00:23 ; elapsed = 00:00:26 . Memory (MB): peak = 2301.863 ; gain = 627.594 ; free physical = 3025 ; free virtual = 7133
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:28 ; elapsed = 00:00:32 . Memory (MB): peak = 2298.895 ; gain = 624.625 ; free physical = 338 ; free virtual = 7492
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:23 ; elapsed = 00:00:26 . Memory (MB): peak = 2301.863 ; gain = 627.594 ; free physical = 3025 ; free virtual = 7133
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:28 ; elapsed = 00:00:32 . Memory (MB): peak = 2298.895 ; gain = 624.625 ; free physical = 338 ; free virtual = 7492
 ---------------------------------------------------------------------------------
-Netlist sorting complete. Time (s): cpu = 00:00:00.81 ; elapsed = 00:00:00.82 . Memory (MB): peak = 2301.863 ; gain = 0.000 ; free physical = 2908 ; free virtual = 7016
+Netlist sorting complete. Time (s): cpu = 00:00:00.95 ; elapsed = 00:00:00.94 . Memory (MB): peak = 2298.895 ; gain = 0.000 ; free physical = 220 ; free virtual = 7375
 INFO: [Netlist 29-17] Analyzing 62 Unisim elements for replacement
 INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
 INFO: [Project 1-570] Preparing netlist for logic optimization
@@ -1688,7 +1688,7 @@ Resolution: To avoid this warning, move constraints listed in [.Xil/swervolf_nex
 INFO: [Timing 38-2] Deriving generated clocks
 Completed Processing XDC Constraints
 
-Netlist sorting complete. Time (s): cpu = 00:00:00.01 ; elapsed = 00:00:00.02 . Memory (MB): peak = 2532.316 ; gain = 0.000 ; free physical = 2696 ; free virtual = 6804
+Netlist sorting complete. Time (s): cpu = 00:00:00.02 ; elapsed = 00:00:00.02 . Memory (MB): peak = 2532.316 ; gain = 0.000 ; free physical = 125 ; free virtual = 7167
 INFO: [Project 1-111] Unisim Transformation Summary:
   A total of 28 instances were transformed.
   FD => FDRE: 8 instances
@@ -1697,9 +1697,9 @@ INFO: [Project 1-111] Unisim Transformation Summary:
   OBUFDS => OBUFDS_DUAL_BUF (INV, OBUFDS(x2)): 1 instance 
   PLLE2_BASE => PLLE2_ADV: 1 instance 
 
-Constraint Validation Runtime : Time (s): cpu = 00:00:00.20 ; elapsed = 00:00:00.20 . Memory (MB): peak = 2532.316 ; gain = 0.000 ; free physical = 2696 ; free virtual = 6804
+Constraint Validation Runtime : Time (s): cpu = 00:00:00.23 ; elapsed = 00:00:00.23 . Memory (MB): peak = 2532.316 ; gain = 0.000 ; free physical = 125 ; free virtual = 7166
 ---------------------------------------------------------------------------------
-Finished Constraint Validation : Time (s): cpu = 00:00:49 ; elapsed = 00:00:53 . Memory (MB): peak = 2532.316 ; gain = 858.047 ; free physical = 2983 ; free virtual = 7091
+Finished Constraint Validation : Time (s): cpu = 00:00:59 ; elapsed = 00:01:01 . Memory (MB): peak = 2532.316 ; gain = 858.047 ; free physical = 413 ; free virtual = 7455
 ---------------------------------------------------------------------------------
 INFO: [Synth 8-5580] Multithreading enabled for synth_design using a maximum of 4 processes.
 ---------------------------------------------------------------------------------
@@ -1707,13 +1707,13 @@ Start Loading Part and Timing Information
 ---------------------------------------------------------------------------------
 Loading part: xc7a100tcsg324-1
 ---------------------------------------------------------------------------------
-Finished Loading Part and Timing Information : Time (s): cpu = 00:00:49 ; elapsed = 00:00:53 . Memory (MB): peak = 2536.234 ; gain = 861.965 ; free physical = 2982 ; free virtual = 7090
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:59 ; elapsed = 00:01:01 . Memory (MB): peak = 2536.234 ; gain = 861.965 ; free physical = 412 ; free virtual = 7453
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Applying 'set_property' XDC Constraints
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:49 ; elapsed = 00:00:54 . Memory (MB): peak = 2536.234 ; gain = 861.965 ; free physical = 2981 ; free virtual = 7089
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:59 ; elapsed = 00:01:01 . Memory (MB): peak = 2536.234 ; gain = 861.965 ; free physical = 410 ; free virtual = 7452
 ---------------------------------------------------------------------------------
 INFO: [Synth 8-5818] HDL ADVISOR - The operator resource <adder> is shared. To prevent sharing consider applying a KEEP on the output of the operator [/home/chuck/ece544_final_project/chuck/RVfpgaSoC-May21_2021/RVfpgaSoC/Labs/LabResources/SweRVolf/build/swervolf_0.7.3/src/swervolf_litedram_0/litedram_core.v:5869]
 INFO: [Synth 8-5818] HDL ADVISOR - The operator resource <adder> is shared. To prevent sharing consider applying a KEEP on the output of the operator [/home/chuck/ece544_final_project/chuck/RVfpgaSoC-May21_2021/RVfpgaSoC/Labs/LabResources/SweRVolf/build/swervolf_0.7.3/src/swervolf_litedram_0/litedram_core.v:7729]
@@ -1836,7 +1836,7 @@ INFO: [Synth 8-3354] encoded FSM with state register 'tstate_reg' using encoding
 ---------------------------------------------------------------------------------------------------
 INFO: [Synth 8-3354] encoded FSM with state register 'rstate_reg' using encoding 'sequential' in module 'uart_receiver'
 ---------------------------------------------------------------------------------
-Finished RTL Optimization Phase 2 : Time (s): cpu = 00:01:45 ; elapsed = 00:02:06 . Memory (MB): peak = 2536.234 ; gain = 861.965 ; free physical = 295 ; free virtual = 4412
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:01:48 ; elapsed = 00:02:05 . Memory (MB): peak = 2536.234 ; gain = 861.965 ; free physical = 162 ; free virtual = 4865
 ---------------------------------------------------------------------------------
 INFO: [Synth 8-223] decloning instance 'swervolf/rvtop/swerv/dbg/axi_bready_ff' (rvdffs) to 'swervolf/rvtop/swerv/dbg/axi_rready_ff'
 INFO: [Synth 8-223] decloning instance 'swervolf/rvtop/swerv/exu/div_e1/dividend_c' (rvtwoscomp) to 'swervolf/rvtop/swerv/exu/div_e1/q_ff_c'
@@ -16089,7 +16089,7 @@ INFO: [Synth 8-3333] propagating constant 0 across sequential element (\axi_inte
 INFO: [Common 17-14] Message 'Synth 8-3333' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
 INFO: [Common 17-14] Message 'Synth 8-3886' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
 ---------------------------------------------------------------------------------
-Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:03:59 ; elapsed = 00:05:57 . Memory (MB): peak = 2536.238 ; gain = 861.969 ; free physical = 723 ; free virtual = 4031
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:03:58 ; elapsed = 00:05:47 . Memory (MB): peak = 2536.238 ; gain = 861.969 ; free physical = 703 ; free virtual = 4504
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start ROM, RAM, DSP and Shift Register Reporting
@@ -16215,13 +16215,13 @@ Start Applying XDC Timing Constraints
 WARNING: [Synth 8-3321] set_false_path : Empty through list for constraint at line 206 of /home/chuck/ece544_final_project/chuck/RVfpgaSoC-May21_2021/RVfpgaSoC/Labs/LabResources/SweRVolf/build/swervolf_0.7.3/src/swervolf_litedram_0/litedram.xdc. [/home/chuck/ece544_final_project/chuck/RVfpgaSoC-May21_2021/RVfpgaSoC/Labs/LabResources/SweRVolf/build/swervolf_0.7.3/src/swervolf_litedram_0/litedram.xdc:206]
 WARNING: [Synth 8-3321] set_false_path : Empty from list for constraint at line 8 of /home/chuck/ece544_final_project/chuck/RVfpgaSoC-May21_2021/RVfpgaSoC/Labs/LabResources/SweRVolf/build/swervolf_0.7.3/src/swervolf_0.7.3/data/swervolf_nexys.xdc. [/home/chuck/ece544_final_project/chuck/RVfpgaSoC-May21_2021/RVfpgaSoC/Labs/LabResources/SweRVolf/build/swervolf_0.7.3/src/swervolf_0.7.3/data/swervolf_nexys.xdc:8]
 ---------------------------------------------------------------------------------
-Finished Applying XDC Timing Constraints : Time (s): cpu = 00:04:13 ; elapsed = 00:06:15 . Memory (MB): peak = 2536.238 ; gain = 861.969 ; free physical = 502 ; free virtual = 3885
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:04:25 ; elapsed = 00:06:19 . Memory (MB): peak = 2536.238 ; gain = 861.969 ; free physical = 496 ; free virtual = 4362
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Timing Optimization
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Timing Optimization : Time (s): cpu = 00:06:20 ; elapsed = 00:08:27 . Memory (MB): peak = 2536.238 ; gain = 861.969 ; free physical = 381 ; free virtual = 3767
+Finished Timing Optimization : Time (s): cpu = 00:09:13 ; elapsed = 00:11:20 . Memory (MB): peak = 2536.238 ; gain = 861.969 ; free physical = 374 ; free virtual = 4245
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start ROM, RAM, DSP and Shift Register Reporting
@@ -16410,7 +16410,7 @@ INFO: [Synth 8-5844] Detected registers with asynchronous reset at DSP/BRAM bloc
 INFO: [Synth 8-7053] The timing for the instance swervolfi_8/swervolf/bootrom/ram/mem_reg (implemented as a Block RAM) might be sub-optimal as no optional output register could be merged into the ram block. Providing additional output register may help in improving timing.
 INFO: [Synth 8-7053] The timing for the instance swervolfi_8/swervolf/bootrom/ram/mem_reg (implemented as a Block RAM) might be sub-optimal as no optional output register could be merged into the ram block. Providing additional output register may help in improving timing.
 ---------------------------------------------------------------------------------
-Finished Technology Mapping : Time (s): cpu = 00:06:44 ; elapsed = 00:09:18 . Memory (MB): peak = 2544.242 ; gain = 869.973 ; free physical = 485 ; free virtual = 3169
+Finished Technology Mapping : Time (s): cpu = 00:10:03 ; elapsed = 00:13:32 . Memory (MB): peak = 2544.242 ; gain = 869.973 ; free physical = 396 ; free virtual = 3698
 ---------------------------------------------------------------------------------
 
 Report RTL Partitions: 
@@ -16473,13 +16473,13 @@ INFO: [Common 17-14] Message 'Synth 8-7053' appears 100 times and further instan
 Finished Final Netlist Cleanup
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished IO Insertion : Time (s): cpu = 00:06:57 ; elapsed = 00:09:31 . Memory (MB): peak = 2544.242 ; gain = 869.973 ; free physical = 435 ; free virtual = 3178
+Finished IO Insertion : Time (s): cpu = 00:10:31 ; elapsed = 00:14:01 . Memory (MB): peak = 2544.242 ; gain = 869.973 ; free physical = 345 ; free virtual = 3705
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Renaming Generated Instances
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Renaming Generated Instances : Time (s): cpu = 00:06:57 ; elapsed = 00:09:31 . Memory (MB): peak = 2544.242 ; gain = 869.973 ; free physical = 435 ; free virtual = 3178
+Finished Renaming Generated Instances : Time (s): cpu = 00:10:31 ; elapsed = 00:14:02 . Memory (MB): peak = 2544.242 ; gain = 869.973 ; free physical = 345 ; free virtual = 3705
 ---------------------------------------------------------------------------------
 
 Report RTL Partitions: 
@@ -16498,25 +16498,25 @@ Report Check Netlist:
 Start Rebuilding User Hierarchy
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Rebuilding User Hierarchy : Time (s): cpu = 00:07:10 ; elapsed = 00:09:44 . Memory (MB): peak = 2544.242 ; gain = 869.973 ; free physical = 412 ; free virtual = 3155
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:10:50 ; elapsed = 00:14:21 . Memory (MB): peak = 2544.242 ; gain = 869.973 ; free physical = 322 ; free virtual = 3682
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Renaming Generated Ports
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Renaming Generated Ports : Time (s): cpu = 00:07:11 ; elapsed = 00:09:45 . Memory (MB): peak = 2544.242 ; gain = 869.973 ; free physical = 412 ; free virtual = 3155
+Finished Renaming Generated Ports : Time (s): cpu = 00:10:52 ; elapsed = 00:14:23 . Memory (MB): peak = 2544.242 ; gain = 869.973 ; free physical = 322 ; free virtual = 3682
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Handling Custom Attributes
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Handling Custom Attributes : Time (s): cpu = 00:07:12 ; elapsed = 00:09:47 . Memory (MB): peak = 2544.242 ; gain = 869.973 ; free physical = 412 ; free virtual = 3155
+Finished Handling Custom Attributes : Time (s): cpu = 00:10:55 ; elapsed = 00:14:26 . Memory (MB): peak = 2544.242 ; gain = 869.973 ; free physical = 322 ; free virtual = 3682
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Renaming Generated Nets
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Renaming Generated Nets : Time (s): cpu = 00:07:13 ; elapsed = 00:09:47 . Memory (MB): peak = 2544.242 ; gain = 869.973 ; free physical = 412 ; free virtual = 3155
+Finished Renaming Generated Nets : Time (s): cpu = 00:10:55 ; elapsed = 00:14:26 . Memory (MB): peak = 2544.242 ; gain = 869.973 ; free physical = 322 ; free virtual = 3682
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start ROM, RAM, DSP and Shift Register Reporting
@@ -20191,18 +20191,18 @@ Report Instance Areas:
 |3588  |  tap                                                                 |bscan_tap                           |   314|
 +------+----------------------------------------------------------------------+------------------------------------+------+
 ---------------------------------------------------------------------------------
-Finished Writing Synthesis Report : Time (s): cpu = 00:07:13 ; elapsed = 00:09:48 . Memory (MB): peak = 2544.242 ; gain = 869.973 ; free physical = 411 ; free virtual = 3155
+Finished Writing Synthesis Report : Time (s): cpu = 00:10:56 ; elapsed = 00:14:27 . Memory (MB): peak = 2544.242 ; gain = 869.973 ; free physical = 321 ; free virtual = 3683
 ---------------------------------------------------------------------------------
 Synthesis finished with 0 errors, 0 critical warnings and 428 warnings.
-Synthesis Optimization Runtime : Time (s): cpu = 00:06:59 ; elapsed = 00:09:36 . Memory (MB): peak = 2544.242 ; gain = 639.520 ; free physical = 4263 ; free virtual = 7017
-Synthesis Optimization Complete : Time (s): cpu = 00:07:17 ; elapsed = 00:09:54 . Memory (MB): peak = 2544.242 ; gain = 869.973 ; free physical = 4274 ; free virtual = 7018
+Synthesis Optimization Runtime : Time (s): cpu = 00:10:37 ; elapsed = 00:14:12 . Memory (MB): peak = 2544.242 ; gain = 636.551 ; free physical = 4178 ; free virtual = 7540
+Synthesis Optimization Complete : Time (s): cpu = 00:11:01 ; elapsed = 00:14:32 . Memory (MB): peak = 2544.242 ; gain = 869.973 ; free physical = 4188 ; free virtual = 7540
 INFO: [Project 1-571] Translating synthesized netlist
-Netlist sorting complete. Time (s): cpu = 00:00:01 ; elapsed = 00:00:01 . Memory (MB): peak = 2544.242 ; gain = 0.000 ; free physical = 4218 ; free virtual = 6962
+Netlist sorting complete. Time (s): cpu = 00:00:01 ; elapsed = 00:00:01 . Memory (MB): peak = 2544.242 ; gain = 0.000 ; free physical = 4134 ; free virtual = 7485
 INFO: [Netlist 29-17] Analyzing 1525 Unisim elements for replacement
 INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
 INFO: [Project 1-570] Preparing netlist for logic optimization
 INFO: [Opt 31-138] Pushed 3 inverter(s) to 34 load pin(s).
-Netlist sorting complete. Time (s): cpu = 00:00:00.04 ; elapsed = 00:00:00.04 . Memory (MB): peak = 2556.328 ; gain = 0.000 ; free physical = 4125 ; free virtual = 6870
+Netlist sorting complete. Time (s): cpu = 00:00:00.04 ; elapsed = 00:00:00.04 . Memory (MB): peak = 2556.328 ; gain = 0.000 ; free physical = 4041 ; free virtual = 7393
 INFO: [Project 1-111] Unisim Transformation Summary:
   A total of 99 instances were transformed.
   FD => FDRE: 8 instances
@@ -20215,11 +20215,11 @@ INFO: [Project 1-111] Unisim Transformation Summary:
 INFO: [Common 17-83] Releasing license: Synthesis
 689 Infos, 189 Warnings, 0 Critical Warnings and 0 Errors encountered.
 synth_design completed successfully
-synth_design: Time (s): cpu = 00:07:35 ; elapsed = 00:10:17 . Memory (MB): peak = 2556.328 ; gain = 1112.191 ; free physical = 4343 ; free virtual = 7088
-Netlist sorting complete. Time (s): cpu = 00:00:00.02 ; elapsed = 00:00:00.02 . Memory (MB): peak = 2556.328 ; gain = 0.000 ; free physical = 4343 ; free virtual = 7088
+synth_design: Time (s): cpu = 00:11:22 ; elapsed = 00:14:59 . Memory (MB): peak = 2556.328 ; gain = 1112.191 ; free physical = 4259 ; free virtual = 7611
+Netlist sorting complete. Time (s): cpu = 00:00:00.03 ; elapsed = 00:00:00.04 . Memory (MB): peak = 2556.328 ; gain = 0.000 ; free physical = 4259 ; free virtual = 7612
 WARNING: [Constraints 18-5210] No constraints selected for write.
 Resolution: This message can indicate that there are no constraints for the design, or it can indicate that the used_in flags are set such that the constraints are ignored. This later case is used when running synth_design to not write synthesis constraints to the resulting checkpoint. Instead, project constraints are read when the synthesized design is opened.
 INFO: [Common 17-1381] The checkpoint '/home/chuck/ece544_final_project/chuck/RVfpgaSoC-May21_2021/RVfpgaSoC/Labs/LabResources/SweRVolf/build/swervolf_0.7.3/nexys_a7-vivado/swervolf_0.7.3.runs/synth_1/swervolf_nexys_a7.dcp' has been generated.
-write_checkpoint: Time (s): cpu = 00:00:17 ; elapsed = 00:00:15 . Memory (MB): peak = 2580.340 ; gain = 24.012 ; free physical = 4333 ; free virtual = 7095
+write_checkpoint: Time (s): cpu = 00:00:21 ; elapsed = 00:00:19 . Memory (MB): peak = 2580.340 ; gain = 24.012 ; free physical = 4250 ; free virtual = 7618
 INFO: [runtcl-4] Executing : report_utilization -file swervolf_nexys_a7_utilization_synth.rpt -pb swervolf_nexys_a7_utilization_synth.pb
-INFO: [Common 17-206] Exiting Vivado at Wed Jun  2 13:47:13 2021...
+INFO: [Common 17-206] Exiting Vivado at Thu Jun  3 14:42:07 2021...

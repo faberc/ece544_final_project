@@ -1,7 +1,7 @@
 Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 ---------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2019.2 (lin64) Build 2708876 Wed Nov  6 21:39:14 MST 2019
-| Date         : Wed Jun  2 13:58:11 2021
+| Date         : Thu Jun  3 14:52:20 2021
 | Host         : Dusky-Darjeeling running 64-bit Ubuntu 20.04.2 LTS
 | Command      : report_drc -file swervolf_nexys_a7_drc_routed.rpt -pb swervolf_nexys_a7_drc_routed.pb -rpx swervolf_nexys_a7_drc_routed.rpx
 | Design       : swervolf_nexys_a7
