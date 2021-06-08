@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1622582331">
-  <File Type="VDS-TIMING-PB" Name="rvfpga_timing_summary_synth.pb"/>
+<GenRun Id="synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1622600351">
   <File Type="VDS-TIMINGSUMMARY" Name="rvfpga_timing_summary_synth.rpt"/>
   <File Type="RDS-DCP" Name="rvfpga.dcp"/>
   <File Type="RDS-UTIL-PB" Name="rvfpga_utilization_synth.pb"/>
@@ -8,6 +7,7 @@
   <File Type="RDS-PROPCONSTRS" Name="rvfpga_drc_synth.rpt"/>
   <File Type="RDS-RDS" Name="rvfpga.vds"/>
   <File Type="REPORTS-TCL" Name="rvfpga_reports.tcl"/>
+  <File Type="VDS-TIMING-PB" Name="rvfpga_timing_summary_synth.pb"/>
   <File Type="PA-TCL" Name="rvfpga.tcl"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
     <Filter Type="Srcs"/>
@@ -175,15 +175,6 @@
     <File Path="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/ifu/ifu_compress_ctl.sv">
       <FileInfo>
         <Attr Name="ImportPath" Val="$PPRDIR/src/SweRVolfSoC/SweRVEh1CoreComplex/ifu/ifu_compress_ctl.sv"/>
-        <Attr Name="ImportTime" Val="1622235706"/>
-        <Attr Name="UsedIn" Val="synthesis"/>
-        <Attr Name="UsedIn" Val="implementation"/>
-        <Attr Name="UsedIn" Val="simulation"/>
-      </FileInfo>
-    </File>
-    <File Path="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/ifu/ifu_ic_mem.sv">
-      <FileInfo>
-        <Attr Name="ImportPath" Val="$PPRDIR/src/SweRVolfSoC/SweRVEh1CoreComplex/ifu/ifu_ic_mem.sv"/>
         <Attr Name="ImportTime" Val="1622235706"/>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
@@ -440,39 +431,12 @@
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include/axi/typedef.svh">
-      <FileInfo>
-        <Attr Name="IsGlobalInclude" Val="1"/>
-        <Attr Name="ImportPath" Val="$PPRDIR/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include/axi/typedef.svh"/>
-        <Attr Name="ImportTime" Val="1622235706"/>
-        <Attr Name="UsedIn" Val="synthesis"/>
-        <Attr Name="UsedIn" Val="simulation"/>
-      </FileInfo>
-    </File>
-    <File Path="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include/axi/assign.svh">
-      <FileInfo>
-        <Attr Name="IsGlobalInclude" Val="1"/>
-        <Attr Name="ImportPath" Val="$PPRDIR/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include/axi/assign.svh"/>
-        <Attr Name="ImportTime" Val="1622235706"/>
-        <Attr Name="UsedIn" Val="synthesis"/>
-        <Attr Name="UsedIn" Val="simulation"/>
-      </FileInfo>
-    </File>
     <File Path="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/src/axi_atop_filter.sv">
       <FileInfo>
         <Attr Name="ImportPath" Val="$PPRDIR/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/src/axi_atop_filter.sv"/>
         <Attr Name="ImportTime" Val="1622235706"/>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
-        <Attr Name="UsedIn" Val="simulation"/>
-      </FileInfo>
-    </File>
-    <File Path="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include/common_cells/registers.svh">
-      <FileInfo>
-        <Attr Name="IsGlobalInclude" Val="1"/>
-        <Attr Name="ImportPath" Val="$PPRDIR/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include/common_cells/registers.svh"/>
-        <Attr Name="ImportTime" Val="1622235706"/>
-        <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
@@ -506,15 +470,6 @@
     <File Path="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/axi_intercon.sv">
       <FileInfo>
         <Attr Name="ImportPath" Val="$PPRDIR/src/SweRVolfSoC/Interconnect/AxiInterconnect/axi_intercon.sv"/>
-        <Attr Name="ImportTime" Val="1622235706"/>
-        <Attr Name="UsedIn" Val="synthesis"/>
-        <Attr Name="UsedIn" Val="implementation"/>
-        <Attr Name="UsedIn" Val="simulation"/>
-      </FileInfo>
-    </File>
-    <File Path="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/src/axi_intf.sv">
-      <FileInfo>
-        <Attr Name="ImportPath" Val="$PPRDIR/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/src/axi_intf.sv"/>
         <Attr Name="ImportTime" Val="1622235706"/>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
@@ -700,10 +655,41 @@
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
+    <File Path="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include/axi/typedef.svh">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="IsGlobalInclude" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include/axi/typedef.svh"/>
+        <Attr Name="ImportTime" Val="1622235706"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include/common_cells/registers.svh">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="IsGlobalInclude" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/src/OtherSources/pulp-platform.org__common_cells_1.20.0/include/common_cells/registers.svh"/>
+        <Attr Name="ImportTime" Val="1622235706"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
     <File Path="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/include/common_defines.vh">
       <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
         <Attr Name="IsGlobalInclude" Val="1"/>
         <Attr Name="ImportPath" Val="$PPRDIR/src/SweRVolfSoC/SweRVEh1CoreComplex/include/common_defines.vh"/>
+        <Attr Name="ImportTime" Val="1622235706"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include/axi/assign.svh">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="IsGlobalInclude" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/include/axi/assign.svh"/>
         <Attr Name="ImportTime" Val="1622235706"/>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="simulation"/>
@@ -765,14 +751,6 @@
         <Attr Name="ImportTime" Val="1622235706"/>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
-        <Attr Name="UsedIn" Val="simulation"/>
-      </FileInfo>
-    </File>
-    <File Path="$PSRCDIR/sources_1/imports/src/LiteDRAM/serv_1.0.2/rtl/serv_params.vh">
-      <FileInfo>
-        <Attr Name="ImportPath" Val="$PPRDIR/src/LiteDRAM/serv_1.0.2/rtl/serv_params.vh"/>
-        <Attr Name="ImportTime" Val="1622235706"/>
-        <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
@@ -884,6 +862,15 @@
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
+    <File Path="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/src/axi_intf.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/src/SweRVolfSoC/Interconnect/AxiInterconnect/pulp-platform.org__axi_0.25.0/src/axi_intf.sv"/>
+        <Attr Name="ImportTime" Val="1622235706"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
     <File Path="$PSRCDIR/sources_1/imports/src/OtherSources/pulp-platform.org__common_cells_1.20.0/src/binary_to_gray.sv">
       <FileInfo>
         <Attr Name="ImportPath" Val="$PPRDIR/src/OtherSources/pulp-platform.org__common_cells_1.20.0/src/binary_to_gray.sv"/>
@@ -935,6 +922,25 @@
         <Attr Name="ImportTime" Val="1622235706"/>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/src/SweRVolfSoC/SweRVEh1CoreComplex/ifu/ifu_ic_mem.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/src/SweRVolfSoC/SweRVEh1CoreComplex/ifu/ifu_ic_mem.sv"/>
+        <Attr Name="ImportTime" Val="1622235706"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/src/LiteDRAM/serv_1.0.2/rtl/serv_params.vh">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/src/LiteDRAM/serv_1.0.2/rtl/serv_params.vh"/>
+        <Attr Name="ImportTime" Val="1622235706"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
@@ -2120,38 +2126,38 @@
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_9_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_8_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_7_1"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_6_1"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_5_1"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_4_1"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_3_2"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_2_2"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_15_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_14_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_13_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_12_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_11_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_10_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_6_1"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_7_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_5_1"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_6_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_4_1"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_3_2"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_0_5"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_5_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_2_2"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_1_3"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_5_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_4_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_3_1"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_0_4"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_2_1"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_1_2"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_14_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_0_4"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_0_5"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_3_0"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_0_3"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_2_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_1_1"/>
-  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_0_2"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_0_3"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_1_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_0_2"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_0_1"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_7_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_syscon_wrapper_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_2_1"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_gpio_wrapper_0_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_bootrom_wrapper_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="BD_bidirec_6_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_intcon_wrapper_bd_0_0"/>
   <BlockFileSet Type="BlockSrcs" Name="BD_swerv_wrapper_verilog_0_0"/>
 </GenRun>
