@@ -1,7 +1,7 @@
 //Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 //--------------------------------------------------------------------------------
 //Tool Version: Vivado v.2019.2 (lin64) Build 2708876 Wed Nov  6 21:39:14 MST 2019
-//Date        : Tue Jun  1 14:16:12 2021
+//Date        : Mon May 31 17:24:30 2021
 //Host        : Dusky-Darjeeling running 64-bit Ubuntu 20.04.2 LTS
 //Command     : generate_target BD.bd
 //Design      : BD
@@ -485,38 +485,38 @@ module BD
 
   assign AN_0[7:0] = syscon_wrapper_0_AN;
   assign Digits_Bits_0[6:0] = syscon_wrapper_0_Digits_Bits;
-  assign bidir_0 = bidirec_0_bidir;
-  assign bidir_1 = bidirec_1_bidir;
-  assign bidir_10 = bidirec_10_bidir;
-  assign bidir_11 = bidirec_11_bidir;
-  assign bidir_12 = bidirec_12_bidir;
-  assign bidir_13 = bidirec_13_bidir;
-  assign bidir_14 = bidirec_14_bidir;
-  assign bidir_15 = bidirec_15_bidir;
-  assign bidir_16 = bidirec_16_bidir;
-  assign bidir_17 = bidirec_17_bidir;
-  assign bidir_18 = bidirec_18_bidir;
-  assign bidir_19 = bidirec_19_bidir;
-  assign bidir_2 = bidirec_2_bidir;
-  assign bidir_20 = bidirec_20_bidir;
+  assign bidir_0 = bidirec_1_bidir;
+  assign bidir_1 = bidirec_11_bidir;
+  assign bidir_10 = bidirec_9_bidir;
+  assign bidir_11 = bidirec_8_bidir;
+  assign bidir_12 = bidirec_18_bidir;
+  assign bidir_13 = bidirec_24_bidir;
+  assign bidir_14 = bidirec_30_bidir;
+  assign bidir_15 = bidirec_23_bidir;
+  assign bidir_16 = bidirec_17_bidir;
+  assign bidir_17 = bidirec_7_bidir;
+  assign bidir_18 = bidirec_6_bidir;
+  assign bidir_19 = bidirec_16_bidir;
+  assign bidir_2 = bidirec_29_bidir;
+  assign bidir_20 = bidirec_22_bidir;
   assign bidir_21 = bidirec_21_bidir;
-  assign bidir_22 = bidirec_22_bidir;
-  assign bidir_23 = bidirec_23_bidir;
-  assign bidir_24 = bidirec_24_bidir;
-  assign bidir_25 = bidirec_25_bidir;
-  assign bidir_26 = bidirec_26_bidir;
-  assign bidir_27 = bidirec_27_bidir;
-  assign bidir_28 = bidirec_28_bidir;
-  assign bidir_29 = bidirec_29_bidir;
-  assign bidir_3 = bidirec_3_bidir;
-  assign bidir_30 = bidirec_30_bidir;
-  assign bidir_31 = bidirec_31_bidir;
-  assign bidir_4 = bidirec_4_bidir;
-  assign bidir_5 = bidirec_5_bidir;
-  assign bidir_6 = bidirec_6_bidir;
-  assign bidir_7 = bidirec_7_bidir;
-  assign bidir_8 = bidirec_8_bidir;
-  assign bidir_9 = bidirec_9_bidir;
+  assign bidir_22 = bidirec_5_bidir;
+  assign bidir_23 = bidirec_15_bidir;
+  assign bidir_24 = bidirec_14_bidir;
+  assign bidir_25 = bidirec_4_bidir;
+  assign bidir_26 = bidirec_20_bidir;
+  assign bidir_27 = bidirec_13_bidir;
+  assign bidir_28 = bidirec_3_bidir;
+  assign bidir_29 = bidirec_12_bidir;
+  assign bidir_3 = bidirec_10_bidir;
+  assign bidir_30 = bidirec_2_bidir;
+  assign bidir_31 = bidirec_0_bidir;
+  assign bidir_4 = bidirec_28_bidir;
+  assign bidir_5 = bidirec_27_bidir;
+  assign bidir_6 = bidirec_26_bidir;
+  assign bidir_7 = bidirec_31_bidir;
+  assign bidir_8 = bidirec_25_bidir;
+  assign bidir_9 = bidirec_19_bidir;
   assign clk_0_1 = clk_0;
   assign dmi_hard_reset_0_1 = dmi_hard_reset_0;
   assign dmi_reg_addr_0_1 = dmi_reg_addr_0[6:0];

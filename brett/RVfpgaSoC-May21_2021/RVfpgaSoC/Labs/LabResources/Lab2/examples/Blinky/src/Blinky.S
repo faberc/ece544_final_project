@@ -12,7 +12,7 @@ main:
 
         li   t1, DELAY               # Set timer value to control blink speed
 
-        li   t0, 0
+        li   t0, 0x80000000
 
 bl1:
         li   a0, GPIO_LEDs
